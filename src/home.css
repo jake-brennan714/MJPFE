@@ -1,0 +1,28 @@
+/* "What is ARML" section */
+#what-is-arml {
+    font-size: 1rem;
+    min-height: 40em;
+    /*max-height: 80em;*/
+    min-width: 40em;
+    /*max-width: 80em;*/
+    /*background-color: #ffca55;*/
+    left: 10em;
+    right: 10em;
+    padding-top: 1em;
+    /*padding: 10em 10em 0;*/
+}
+
+#what-is-arml > * {
+    text-align: center;
+    background-color: inherit;
+    padding: 1rem;
+    font-family: Montserrat, Helvetica, Arial, sans-serif;
+}
+
+#what-is-arml > h1 {
+    font-size: 2.5em;
+}
+
+#what-is-arml > h2 {
+    font-size: 2em;
+}

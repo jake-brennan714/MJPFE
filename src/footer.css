@@ -1,0 +1,14 @@
+.footer-container {
+    align-items: center;
+}
+
+.footer-contents {
+    align-items: center;
+    text-align: center;
+}
+
+.footer-contents > * {
+    color: black;
+    font-size: 1.5rem;
+    padding: 1rem;
+}

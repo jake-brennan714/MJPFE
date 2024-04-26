@@ -1,0 +1,35 @@
+#navigation > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+#navigation > ul > li {
+    display: inline;
+}
+
+#navigation > ul > li > a {
+    text-decoration: none;
+    color: black;
+    font-size: 3em;
+    font-family: Raleway, Arial, sans-serif;
+    font-weight: bold;
+    font-variant-caps: petite-caps;
+}
+
+#navigation > ul > li > a > .small-cap {
+    text-decoration: none;
+    color: black;
+    font-size: 110%;
+    font-family: Raleway, Arial, sans-serif;
+    font-weight: bold;
+    font-variant-caps: petite-caps;
+}
+
+#navigation > ul > li.spacer {
+    padding: 0 0.5rem;
+}
+
+#navigation > ul > li.flr {
+    float: right;
+}

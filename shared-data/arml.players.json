@@ -3,2070 +3,2366 @@
   "club": null,
   "displayName": "",
   "pronouns": "",
-  "tenhou": null
+  "tenhou": null,
+  "disc_id": null
 },
 {
   "_id": 1,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Edwin D.",
   "pronouns": "he/him",
-  "tenhou": "12-6'er"
+  "tenhou": "12-6'er",
+  "disc_id": "223818230412738561"
 },
 {
   "_id": 2,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Travis S.",
   "pronouns": "he/him",
-  "tenhou": "FakeGG"
+  "tenhou": "FakeGG",
+  "disc_id": "159212705763295232"
 },
 {
   "_id": 3,
   "club": "Greater Cincinnati Riichi Mahjong",
   "displayName": "Max S.",
   "pronouns": "he/him",
-  "tenhou": "ShiLPYo"
+  "tenhou": "ShiLPYo",
+  "disc_id": "411373773711867905"
 },
 {
   "_id": 4,
   "club": "N/A",
   "displayName": "Kevin S.",
   "pronouns": "",
-  "tenhou": "Faelil"
+  "tenhou": "Faelil",
+  "disc_id": "151515459454238721"
 },
 {
   "_id": 5,
   "club": "LAPOM",
   "displayName": "Vincent Y.",
   "pronouns": "",
-  "tenhou": "DS4_千織"
+  "tenhou": "DS4_千織",
+  "disc_id": "113442860098981888"
 },
 {
   "_id": 6,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Anthony H.",
   "pronouns": "he/him",
-  "tenhou": "Misder"
+  "tenhou": "Misder",
+  "disc_id": "283866719930417153"
 },
 {
   "_id": 7,
   "club": "Riichi Nomi NYC",
   "displayName": "Andres H.",
   "pronouns": "he/him",
-  "tenhou": "Tohsaka"
+  "tenhou": "Tohsaka",
+  "disc_id": "210216890771963907"
 },
 {
   "_id": 8,
   "club": "Riichi Nomi NYC",
   "displayName": "Tian Y.",
   "pronouns": "",
-  "tenhou": "Propane"
+  "tenhou": "Propane",
+  "disc_id": "404695687276527627"
 },
 {
   "_id": 9,
   "club": "Chicago Area Mahjong",
   "displayName": "Aldwin G.",
   "pronouns": "",
-  "tenhou": "KyuuSC"
+  "tenhou": "KyuuSC",
+  "disc_id": "184475417976111115"
 },
 {
   "_id": 10,
   "club": "N/A",
   "displayName": "Kevin J.",
   "pronouns": "",
-  "tenhou": "KayJay"
+  "tenhou": "KayJay",
+  "disc_id": null
 },
 {
   "_id": 11,
   "club": "N/A",
   "displayName": "Patrick P.",
   "pronouns": "he/him",
-  "tenhou": "PattyP"
+  "tenhou": "PattyP",
+  "disc_id": "112228907670859776"
 },
 {
   "_id": 12,
   "club": "Pacific Mahjong League",
   "displayName": "Alex W.",
   "pronouns": "he/him",
-  "tenhou": "point"
+  "tenhou": "point",
+  "disc_id": "102925036146401280"
 },
 {
   "_id": 13,
   "club": "N/A",
   "displayName": "Tucker D.",
   "pronouns": "they/them",
-  "tenhou": "Ennui"
+  "tenhou": "Ennui",
+  "disc_id": "612373465432981545"
 },
 {
   "_id": 14,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "John E.",
   "pronouns": "",
-  "tenhou": "RonJonA"
+  "tenhou": "RonJonA",
+  "disc_id": "164546435101097984"
 },
 {
   "_id": 15,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Ada H.",
   "pronouns": "she/her",
-  "tenhou": "kityloaf"
+  "tenhou": "kityloaf",
+  "disc_id": null
 },
 {
   "_id": 16,
   "club": "Panhandle Mahjong",
   "displayName": "Ryan A.",
   "pronouns": "",
-  "tenhou": "パンダフアイサー"
+  "tenhou": "パンダフアイサー",
+  "disc_id": null
 },
 {
   "_id": 17,
   "club": "Panhandle Mahjong",
   "displayName": "Ryan J.",
   "pronouns": "he/him",
-  "tenhou": "Sashimi"
+  "tenhou": "Sashimi",
+  "disc_id": null
 },
 {
   "_id": 18,
   "club": "N/A",
   "displayName": "Jeremy F.",
   "pronouns": "he/him",
-  "tenhou": "ICHIBAN"
+  "tenhou": "ICHIBAN",
+  "disc_id": null
 },
 {
   "_id": 19,
   "club": "Chicago Area Mahjong",
   "displayName": "Bret L.",
   "pronouns": "he/him, they/them",
-  "tenhou": "Bret"
+  "tenhou": "Bret",
+  "disc_id": null
 },
 {
   "_id": 20,
   "club": "Riichi Nomi NYC",
   "displayName": "Andre C.",
   "pronouns": "he/him",
-  "tenhou": "6HanDre"
+  "tenhou": "6HanDre",
+  "disc_id": null
 },
 {
   "_id": 21,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Steven F.",
   "pronouns": "He/Him",
-  "tenhou": "銀の津波"
+  "tenhou": "銀の津波",
+  "disc_id": null
 },
 {
   "_id": 22,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Kinyan L.",
   "pronouns": "she/her",
-  "tenhou": "Yukitora"
+  "tenhou": "Yukitora",
+  "disc_id": null
 },
 {
   "_id": 23,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Joe M.",
   "pronouns": "he/him",
-  "tenhou": "Jowzer1"
+  "tenhou": "Jowzer1",
+  "disc_id": null
 },
 {
   "_id": 24,
   "club": "Pacific Mahjong League",
   "displayName": "Stanley D.",
   "pronouns": "He/Him",
-  "tenhou": "AuraSoul"
+  "tenhou": "AuraSoul",
+  "disc_id": null
 },
 {
   "_id": 25,
   "club": "N/A",
   "displayName": "Perry W.",
   "pronouns": "",
-  "tenhou": "BigHat"
+  "tenhou": "BigHat",
+  "disc_id": null
 },
 {
   "_id": 26,
   "club": "N/A",
   "displayName": "Cesar F.",
   "pronouns": "",
-  "tenhou": "m3w0s"
+  "tenhou": "m3w0s",
+  "disc_id": null
 },
 {
   "_id": 27,
   "club": "N/A",
   "displayName": "Christopher P.",
   "pronouns": "",
-  "tenhou": "Pint"
+  "tenhou": "Pint",
+  "disc_id": null
 },
 {
   "_id": 28,
   "club": "Chicago Area Mahjong",
   "displayName": "Aliena M.",
   "pronouns": "she/they",
-  "tenhou": "jamcat"
+  "tenhou": "jamcat",
+  "disc_id": null
 },
 {
   "_id": 29,
   "club": "N/A",
   "displayName": "Daniel N.",
   "pronouns": "he/him",
-  "tenhou": "SJS"
+  "tenhou": "SJS",
+  "disc_id": null
 },
 {
   "_id": 30,
   "club": "Baltimore Mahjong",
   "displayName": "Arthur M.",
   "pronouns": "",
-  "tenhou": "Corak"
+  "tenhou": "Corak",
+  "disc_id": null
 },
 {
   "_id": 31,
   "club": "Philadelphia Riichi Mahjong",
   "displayName": "Sarah A.",
   "pronouns": "she/her",
-  "tenhou": "wolfos"
+  "tenhou": "wolfos",
+  "disc_id": null
 },
 {
   "_id": 32,
   "club": "DC Riichi Mahjong",
   "displayName": "Dustin F.",
   "pronouns": "he/him",
-  "tenhou": "qetc"
+  "tenhou": "qetc",
+  "disc_id": null
 },
 {
   "_id": 33,
   "club": "Pacific Mahjong League",
   "displayName": "Oliver N.",
   "pronouns": "he/him",
-  "tenhou": "Ashye"
+  "tenhou": "Ashye",
+  "disc_id": null
 },
 {
   "_id": 34,
   "club": "Riichi Nomi NYC",
   "displayName": "Claire P.",
   "pronouns": "she/her",
-  "tenhou": "THURSDAY"
+  "tenhou": "THURSDAY",
+  "disc_id": null
 },
 {
   "_id": 35,
   "club": "Riichi Nomi NYC",
   "displayName": "Pio Y.",
   "pronouns": "",
-  "tenhou": "pio"
+  "tenhou": "pio",
+  "disc_id": null
 },
 {
   "_id": 36,
   "club": "N/A",
   "displayName": "Bill S.",
   "pronouns": "",
-  "tenhou": "SpklBill"
+  "tenhou": "SpklBill",
+  "disc_id": null
 },
 {
   "_id": 37,
   "club": "Columbus Riichi Mahjong",
   "displayName": "Kathy H.",
   "pronouns": "she/her",
-  "tenhou": "Crow_77"
+  "tenhou": "Crow_77",
+  "disc_id": null
 },
 {
   "_id": 38,
   "club": "N/A",
   "displayName": "Hoang L.",
   "pronouns": "he/him",
-  "tenhou": "banhcuon"
+  "tenhou": "banhcuon",
+  "disc_id": null
 },
 {
   "_id": 39,
   "club": "Southeast Michigan Riichi",
   "displayName": "Steve A.",
   "pronouns": "he/him",
-  "tenhou": "zelkin"
+  "tenhou": "zelkin",
+  "disc_id": null
 },
 {
   "_id": 40,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Ming-Ko C.",
   "pronouns": "",
-  "tenhou": "techbro"
+  "tenhou": "techbro",
+  "disc_id": null
 },
 {
   "_id": 41,
   "club": "OC Mahjong",
   "displayName": "Aaron L.",
   "pronouns": "",
-  "tenhou": "Xeno"
+  "tenhou": "Xeno",
+  "disc_id": null
 },
 {
   "_id": 42,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Zach F.",
   "pronouns": "",
-  "tenhou": "鳳雛子"
+  "tenhou": "鳳雛子",
+  "disc_id": null
 },
 {
   "_id": 43,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Mathias S.",
   "pronouns": "he/him",
-  "tenhou": "Mathstar"
+  "tenhou": "Mathstar",
+  "disc_id": null
 },
 {
   "_id": 44,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Luce C.",
   "pronouns": "she/her",
-  "tenhou": "lanxia"
+  "tenhou": "lanxia",
+  "disc_id": null
 },
 {
   "_id": 45,
   "club": "Southeast Michigan Riichi",
   "displayName": "Aaron E.",
   "pronouns": "",
-  "tenhou": "CsBlue"
+  "tenhou": "CsBlue",
+  "disc_id": null
 },
 {
   "_id": 46,
   "club": "Dekamore Riichi Mahjong",
   "displayName": "Nathanael K.",
   "pronouns": "he/him",
-  "tenhou": "tateniu"
+  "tenhou": "tateniu",
+  "disc_id": null
 },
 {
   "_id": 47,
   "club": "Riichi Nomi NYC",
   "displayName": "Josh K.",
   "pronouns": "he/him",
-  "tenhou": "カン明耀"
+  "tenhou": "カン明耀",
+  "disc_id": null
 },
 {
   "_id": 48,
   "club": "Chicago Area Mahjong",
   "displayName": "Sixuan L.",
   "pronouns": "he/him",
-  "tenhou": "Shiromii"
+  "tenhou": "Shiromii",
+  "disc_id": null
 },
 {
   "_id": 49,
   "club": "N/A",
   "displayName": "Albert Y.",
   "pronouns": "",
-  "tenhou": "on9Namer"
+  "tenhou": "on9Namer",
+  "disc_id": null
 },
 {
   "_id": 50,
   "club": "Snake Shack",
   "displayName": "Lucas L.",
   "pronouns": "he/him",
-  "tenhou": "Navitas"
+  "tenhou": "Navitas",
+  "disc_id": null
 },
 {
   "_id": 51,
   "club": "N/A",
   "displayName": "Zelong L.",
   "pronouns": "he/him",
-  "tenhou": "lzl65825"
+  "tenhou": "lzl65825",
+  "disc_id": null
 },
 {
   "_id": 52,
   "club": "Riichi Nomi NYC",
   "displayName": "Erik K.",
   "pronouns": "he/him",
-  "tenhou": "eriknomi"
+  "tenhou": "eriknomi",
+  "disc_id": null
 },
 {
   "_id": 53,
   "club": "Riichi Nomi NYC",
   "displayName": "Amy G.",
   "pronouns": "she/her",
-  "tenhou": "amyhaiku"
+  "tenhou": "amyhaiku",
+  "disc_id": null
 },
 {
   "_id": 54,
   "club": "N/A",
   "displayName": "Gina D.",
   "pronouns": "",
-  "tenhou": "Buterfly"
+  "tenhou": "Buterfly",
+  "disc_id": null
 },
 {
   "_id": 55,
   "club": "N/A",
   "displayName": "Stephanie V.",
   "pronouns": "",
-  "tenhou": "三色ステフ"
+  "tenhou": "三色ステフ",
+  "disc_id": null
 },
 {
   "_id": 56,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Kaz U.",
   "pronouns": "",
-  "tenhou": "KSea"
+  "tenhou": "KSea",
+  "disc_id": null
 },
 {
   "_id": 57,
   "club": "N/A",
   "displayName": "Axel K.",
   "pronouns": "",
-  "tenhou": "LM"
+  "tenhou": "LM",
+  "disc_id": null
 },
 {
   "_id": 58,
   "club": "N/A",
   "displayName": "Jun F.",
   "pronouns": "",
-  "tenhou": "Shinrako"
+  "tenhou": "Shinrako",
+  "disc_id": null
 },
 {
   "_id": 59,
   "club": "N/A",
   "displayName": "Carl M.",
   "pronouns": "",
-  "tenhou": "Ketsuban"
+  "tenhou": "Ketsuban",
+  "disc_id": null
 },
 {
   "_id": 60,
   "club": "Longhorn Riichi (University of Texas)",
   "displayName": "Peter G.",
   "pronouns": "he/him",
-  "tenhou": "Hypera"
+  "tenhou": "Hypera",
+  "disc_id": null
 },
 {
   "_id": 61,
   "club": "Middle Tennessee Riichi Club",
   "displayName": "Robert D.",
   "pronouns": "",
-  "tenhou": "Rampi"
+  "tenhou": "Rampi",
+  "disc_id": null
 },
 {
   "_id": 62,
   "club": "N/A",
   "displayName": "Benjamin H.",
   "pronouns": "",
-  "tenhou": "Ghostwhl"
+  "tenhou": "Ghostwhl",
+  "disc_id": null
 },
 {
   "_id": 63,
   "club": "Pacific Mahjong League",
   "displayName": "Xu L.",
   "pronouns": "he/him",
-  "tenhou": "xuli1072"
+  "tenhou": "xuli1072",
+  "disc_id": null
 },
 {
   "_id": 64,
   "club": "Riichi Nomi NYC",
   "displayName": "Vincent C.",
   "pronouns": "he/him",
-  "tenhou": "Farcon"
+  "tenhou": "Farcon",
+  "disc_id": null
 },
 {
   "_id": 65,
   "club": "Oklahoma Mahjong",
   "displayName": "Blane S.",
   "pronouns": "he/him",
-  "tenhou": "SmaMan"
+  "tenhou": "SmaMan",
+  "disc_id": null
 },
 {
   "_id": 66,
   "club": "Riichi Nomi NYC",
   "displayName": "Tristan J.",
   "pronouns": "he/him",
-  "tenhou": "birdup"
+  "tenhou": "birdup",
+  "disc_id": null
 },
 {
   "_id": 67,
   "club": "Pacific Mahjong League",
   "displayName": "Rachel H.",
   "pronouns": "she/her",
-  "tenhou": "rachel"
+  "tenhou": "rachel",
+  "disc_id": null
 },
 {
   "_id": 68,
   "club": "Riichi Nomi NYC",
   "displayName": "Kevin N.",
   "pronouns": "He/Him",
-  "tenhou": "sibowlr"
+  "tenhou": "sibowlr",
+  "disc_id": null
 },
 {
   "_id": 69,
   "club": "Riichi Nomi NYC",
   "displayName": "Christian M.",
   "pronouns": "he/him",
-  "tenhou": "chralem"
+  "tenhou": "chralem",
+  "disc_id": null
 },
 {
   "_id": 70,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Ash G.",
   "pronouns": "",
-  "tenhou": "サソリビ"
+  "tenhou": "サソリビ",
+  "disc_id": null
 },
 {
   "_id": 71,
   "club": "Pacific Mahjong League",
   "displayName": "Simon H.",
   "pronouns": "",
-  "tenhou": "アリス大好き"
+  "tenhou": "アリス大好き",
+  "disc_id": null
 },
 {
   "_id": 72,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Kristaps B.",
   "pronouns": "",
-  "tenhou": "Ruka985"
+  "tenhou": "Ruka985",
+  "disc_id": null
 },
 {
   "_id": 73,
   "club": "Pacific Mahjong League",
   "displayName": "Austin T.",
   "pronouns": "",
-  "tenhou": "liebe"
+  "tenhou": "liebe",
+  "disc_id": null
 },
 {
   "_id": 74,
   "club": "Pacific Mahjong League",
   "displayName": "Bichen W.",
   "pronouns": "he/him",
-  "tenhou": "konamura"
+  "tenhou": "konamura",
+  "disc_id": null
 },
 {
   "_id": 75,
   "club": "DFW Mahjong",
   "displayName": "Clinton V.",
   "pronouns": "he/him",
-  "tenhou": "cdv2022"
+  "tenhou": "cdv2022",
+  "disc_id": null
 },
 {
   "_id": 76,
   "club": "N/A",
   "displayName": "Matthew M.",
   "pronouns": "he/him",
-  "tenhou": "幽紫"
+  "tenhou": "幽紫",
+  "disc_id": null
 },
 {
   "_id": 77,
   "club": "Pacific Mahjong League",
   "displayName": "Sophia L.",
   "pronouns": "",
-  "tenhou": "Sophtoph"
+  "tenhou": "Sophtoph",
+  "disc_id": null
 },
 {
   "_id": 78,
   "club": "N/A",
   "displayName": "Bruce W.",
   "pronouns": "",
-  "tenhou": "b4k4"
+  "tenhou": "b4k4",
+  "disc_id": null
 },
 {
   "_id": 79,
   "club": "N/A",
   "displayName": "Carl T.",
   "pronouns": "He/Him",
-  "tenhou": "正義の斷幺"
+  "tenhou": "正義の斷幺",
+  "disc_id": null
 },
 {
   "_id": 80,
   "club": "Panhandle Mahjong",
   "displayName": "Scott H.",
   "pronouns": "He/Him",
-  "tenhou": "StatDust"
+  "tenhou": "StatDust",
+  "disc_id": null
 },
 {
   "_id": 81,
   "club": "N/A",
   "displayName": "Tommy S.",
   "pronouns": "",
-  "tenhou": "jytommy"
+  "tenhou": "jytommy",
+  "disc_id": null
 },
 {
   "_id": 82,
   "club": "Orlando Riichi Mahjong",
   "displayName": "David J.",
   "pronouns": "",
-  "tenhou": "Astro!!!"
+  "tenhou": "Astro!!!",
+  "disc_id": null
 },
 {
   "_id": 83,
   "club": "Greater Cincinnati Riichi Mahjong",
   "displayName": "Joshua R.",
   "pronouns": "he/his",
-  "tenhou": "玉藻のゲイ"
+  "tenhou": "玉藻のゲイ",
+  "disc_id": null
 },
 {
   "_id": 84,
   "club": "Oklahoma Mahjong",
   "displayName": "Riley B.",
   "pronouns": "he/him",
-  "tenhou": "rzbick"
+  "tenhou": "rzbick",
+  "disc_id": null
 },
 {
   "_id": 85,
   "club": "N/A",
   "displayName": "Lin A.",
   "pronouns": "",
-  "tenhou": "anlin430"
+  "tenhou": "anlin430",
+  "disc_id": null
 },
 {
   "_id": 86,
   "club": "Southeast Michigan Riichi",
   "displayName": "Anja M.",
   "pronouns": "she/her",
-  "tenhou": "メガネっ娘"
+  "tenhou": "メガネっ娘",
+  "disc_id": null
 },
 {
   "_id": 87,
   "club": "Riichi Nomi NYC",
   "displayName": "Yuanxi L.",
   "pronouns": "",
-  "tenhou": "LY1nX"
+  "tenhou": "LY1nX",
+  "disc_id": null
 },
 {
   "_id": 88,
   "club": "Riichi Nomi NYC",
   "displayName": "Felippe F.",
   "pronouns": "",
-  "tenhou": "Felippe"
+  "tenhou": "Felippe",
+  "disc_id": null
 },
 {
   "_id": 89,
   "club": "Hammergirl Anime",
   "displayName": "Luke M.",
   "pronouns": "He/Him",
-  "tenhou": "LukeARML"
+  "tenhou": "LukeARML",
+  "disc_id": null
 },
 {
   "_id": 90,
   "club": "RIT Nine Gates",
   "displayName": "Michael M.",
   "pronouns": "",
-  "tenhou": "McLeod"
+  "tenhou": "McLeod",
+  "disc_id": null
 },
 {
   "_id": 91,
   "club": "Hammergirl Anime",
   "displayName": "Jason T.",
   "pronouns": "",
-  "tenhou": "Pressx"
+  "tenhou": "Pressx",
+  "disc_id": null
 },
 {
   "_id": 92,
   "club": "Hammergirl Anime",
   "displayName": "Andrew F.",
   "pronouns": "",
-  "tenhou": "Oktavia"
+  "tenhou": "Oktavia",
+  "disc_id": null
 },
 {
   "_id": 93,
   "club": "Hammergirl Anime",
   "displayName": "Everett L.",
   "pronouns": "",
-  "tenhou": "MrHat"
+  "tenhou": "MrHat",
+  "disc_id": null
 },
 {
   "_id": 94,
   "club": "Hammergirl Anime",
   "displayName": "Bryce W.",
   "pronouns": "he/him",
-  "tenhou": "NTWRS644"
+  "tenhou": "NTWRS644",
+  "disc_id": null
 },
 {
   "_id": 95,
   "club": "Riichi Nomi NYC",
   "displayName": "Sam D.",
   "pronouns": "",
-  "tenhou": "lera"
+  "tenhou": "lera",
+  "disc_id": null
 },
 {
   "_id": 96,
   "club": "Hammergirl Anime",
   "displayName": "Jian J.",
   "pronouns": "",
-  "tenhou": "blank"
+  "tenhou": "blank",
+  "disc_id": null
 },
 {
   "_id": 97,
   "club": "Hammergirl Anime",
   "displayName": "Molly L.",
   "pronouns": "",
-  "tenhou": "sofia"
+  "tenhou": "sofia",
+  "disc_id": null
 },
 {
   "_id": 98,
   "club": "Longhorn Riichi (University of Texas)",
   "displayName": "Philip Z.",
   "pronouns": "he/him",
-  "tenhou": "Nehalem"
+  "tenhou": "Nehalem",
+  "disc_id": null
 },
 {
   "_id": 99,
   "club": "N/A",
   "displayName": "Cassandra M.",
   "pronouns": "she/her",
-  "tenhou": "Ukitten"
+  "tenhou": "Ukitten",
+  "disc_id": null
 },
 {
   "_id": 100,
   "club": "LAPOM",
   "displayName": "Alec S.",
   "pronouns": "he/him",
-  "tenhou": "Alec"
+  "tenhou": "Alec",
+  "disc_id": null
 },
 {
   "_id": 101,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Shane B.",
   "pronouns": "he/him",
-  "tenhou": "SlimDizz"
+  "tenhou": "SlimDizz",
+  "disc_id": null
 },
 {
   "_id": 102,
   "club": "Greater Cincinnati Riichi Mahjong",
   "displayName": "Cruz C.",
   "pronouns": "",
-  "tenhou": "MCMXCVI"
+  "tenhou": "MCMXCVI",
+  "disc_id": null
 },
 {
   "_id": 103,
   "club": "Pacific Mahjong League",
   "displayName": "Travis G.",
   "pronouns": "he/him",
-  "tenhou": "Sirocco"
+  "tenhou": "Sirocco",
+  "disc_id": null
 },
 {
   "_id": 104,
   "club": "N/A",
   "displayName": "Haru S.",
   "pronouns": "",
-  "tenhou": "pororo"
+  "tenhou": "pororo",
+  "disc_id": null
 },
 {
   "_id": 105,
   "club": "Riichi Nomi NYC",
   "displayName": "",
   "pronouns": "",
-  "tenhou": "/tenhou"
+  "tenhou": "/tenhou",
+  "disc_id": null
 },
 {
   "_id": 106,
   "club": "Riichi Nomi NYC",
   "displayName": "Yoshi K.",
   "pronouns": "",
-  "tenhou": "スーパーヨッシー"
+  "tenhou": "スーパーヨッシー",
+  "disc_id": null
 },
 {
   "_id": 107,
   "club": "Panhandle Mahjong",
   "displayName": "Jeremiah D.",
   "pronouns": "",
-  "tenhou": "Jdubs"
+  "tenhou": "Jdubs",
+  "disc_id": null
 },
 {
   "_id": 108,
   "club": "Hammergirl Anime",
   "displayName": "Michael G.",
   "pronouns": "",
-  "tenhou": "じゃがいもえ"
+  "tenhou": "じゃがいもえ",
+  "disc_id": null
 },
 {
   "_id": 109,
   "club": "Riichi Nomi NYC",
   "displayName": "Dakota W.",
   "pronouns": "",
-  "tenhou": "g2wolf"
+  "tenhou": "g2wolf",
+  "disc_id": null
 },
 {
   "_id": 110,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Garrick L.",
   "pronouns": "he/him",
-  "tenhou": "Aethryen"
+  "tenhou": "Aethryen",
+  "disc_id": null
 },
 {
   "_id": 111,
   "club": "Southeast Michigan Riichi",
   "displayName": "Michael L. [MI]",
   "pronouns": "he/him",
-  "tenhou": "ΔM"
+  "tenhou": "ΔM",
+  "disc_id": null
 },
 {
   "_id": 112,
   "club": "Riichi Nomi NYC",
   "displayName": "Michael V.",
   "pronouns": "he/him",
-  "tenhou": "AnotherM"
+  "tenhou": "AnotherM",
+  "disc_id": null
 },
 {
   "_id": 113,
   "club": "LAPOM",
   "displayName": "Andrew R.",
   "pronouns": "he/him",
-  "tenhou": "OneShot"
+  "tenhou": "OneShot",
+  "disc_id": null
 },
 {
   "_id": 114,
   "club": "Riichi Nomi NYC",
   "displayName": "Joshua B.",
   "pronouns": "",
-  "tenhou": "JkrBoar"
+  "tenhou": "JkrBoar",
+  "disc_id": null
 },
 {
   "_id": 115,
   "club": "N/A",
   "displayName": "Jonathan S.",
   "pronouns": "he/him",
-  "tenhou": "jsdf"
+  "tenhou": "jsdf",
+  "disc_id": null
 },
 {
   "_id": 116,
   "club": "Snake Shack",
   "displayName": "Sylvie B.",
   "pronouns": "they/them",
-  "tenhou": "Sylv007"
+  "tenhou": "Sylv007",
+  "disc_id": null
 },
 {
   "_id": 117,
   "club": "Dekamore Riichi Mahjong",
   "displayName": "Kevin D.",
   "pronouns": "he/him",
-  "tenhou": "Dutchman"
+  "tenhou": "Dutchman",
+  "disc_id": null
 },
 {
   "_id": 118,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Rizeng Z.",
   "pronouns": "",
-  "tenhou": "日増"
+  "tenhou": "日増",
+  "disc_id": null
 },
 {
   "_id": 119,
   "club": "N/A",
   "displayName": "Jacob R.",
   "pronouns": "",
-  "tenhou": "Creed6ft"
+  "tenhou": "Creed6ft",
+  "disc_id": null
 },
 {
   "_id": 120,
   "club": "Southeast Michigan Riichi",
   "displayName": "Brian T.",
   "pronouns": "He/Him",
-  "tenhou": "茨木伊吹"
+  "tenhou": "茨木伊吹",
+  "disc_id": null
 },
 {
   "_id": 121,
   "club": "Pacific Mahjong League",
   "displayName": "Jeff T.",
   "pronouns": "he/him",
-  "tenhou": "taxi"
+  "tenhou": "taxi",
+  "disc_id": null
 },
 {
   "_id": 122,
   "club": "Southeast Michigan Riichi",
   "displayName": "Jocilyn W.",
   "pronouns": "She/They",
-  "tenhou": "senbei"
+  "tenhou": "senbei",
+  "disc_id": null
 },
 {
   "_id": 123,
   "club": "Riichi Rapids Mahjong",
   "displayName": "Jessa A.",
   "pronouns": "she/her",
-  "tenhou": "Ipomoea"
+  "tenhou": "Ipomoea",
+  "disc_id": null
 },
 {
   "_id": 124,
   "club": "N/A",
   "displayName": "Jasmine Y.",
   "pronouns": "",
-  "tenhou": "JasXD17"
+  "tenhou": "JasXD17",
+  "disc_id": null
 },
 {
   "_id": 125,
   "club": "Riichi Rapids Mahjong",
   "displayName": "Ryan D.",
   "pronouns": "he, him",
-  "tenhou": "Ovar"
+  "tenhou": "Ovar",
+  "disc_id": null
 },
 {
   "_id": 126,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Xiangyu J.",
   "pronouns": "He/Him",
-  "tenhou": "Jxyy"
+  "tenhou": "Jxyy",
+  "disc_id": null
 },
 {
   "_id": 127,
   "club": "N/A",
   "displayName": "Amari K.",
   "pronouns": "she/her",
-  "tenhou": "Scallion"
+  "tenhou": "Scallion",
+  "disc_id": null
 },
 {
   "_id": 128,
   "club": "PDX Riichi Mahjong Club",
   "displayName": "Julian K.",
   "pronouns": "he/him",
-  "tenhou": "Jucchan"
+  "tenhou": "Jucchan",
+  "disc_id": null
 },
 {
   "_id": 129,
   "club": "Southeast Michigan Riichi",
   "displayName": "Vikram P.",
   "pronouns": "he/him",
-  "tenhou": "whatsina"
+  "tenhou": "whatsina",
+  "disc_id": null
 },
 {
   "_id": 130,
   "club": "Pacific Mahjong League",
   "displayName": "Alfred C.",
   "pronouns": "",
-  "tenhou": "Feeding"
+  "tenhou": "Feeding",
+  "disc_id": null
 },
 {
   "_id": 131,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Leon P.",
   "pronouns": "he/him",
-  "tenhou": "TWMN0610"
+  "tenhou": "TWMN0610",
+  "disc_id": null
 },
 {
   "_id": 132,
   "club": "N/A",
   "displayName": "Diyu Y.",
   "pronouns": "",
-  "tenhou": "xshy1"
+  "tenhou": "xshy1",
+  "disc_id": null
 },
 {
   "_id": 133,
   "club": "MIT Mahjong",
   "displayName": "Steven L.",
   "pronouns": "he/him",
-  "tenhou": "SirMrGuy"
+  "tenhou": "SirMrGuy",
+  "disc_id": null
 },
 {
   "_id": 134,
   "club": "N/A",
   "displayName": "Jinwoo K.",
   "pronouns": "",
-  "tenhou": "Shikiya"
+  "tenhou": "Shikiya",
+  "disc_id": null
 },
 {
   "_id": 135,
   "club": "Southeast Michigan Riichi",
   "displayName": "Zach W.",
   "pronouns": "",
-  "tenhou": "termdex"
+  "tenhou": "termdex",
+  "disc_id": null
 },
 {
   "_id": 136,
   "club": "Hammergirl Anime",
   "displayName": "Gaetano L.",
   "pronouns": "",
-  "tenhou": "LowCiel"
+  "tenhou": "LowCiel",
+  "disc_id": null
 },
 {
   "_id": 137,
   "club": "N/A",
   "displayName": "Robert C.",
   "pronouns": "he, him, his",
-  "tenhou": "otiose"
+  "tenhou": "otiose",
+  "disc_id": null
 },
 {
   "_id": 138,
   "club": "Riichi Nomi NYC",
   "displayName": "Christine R.",
   "pronouns": "",
-  "tenhou": "Xtine"
+  "tenhou": "Xtine",
+  "disc_id": null
 },
 {
   "_id": 139,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Eric L.",
   "pronouns": "",
-  "tenhou": "Eile"
+  "tenhou": "Eile",
+  "disc_id": null
 },
 {
   "_id": 140,
   "club": "Columbus Riichi Mahjong",
   "displayName": "William S.",
   "pronouns": "He/Him",
-  "tenhou": "Kujira"
+  "tenhou": "Kujira",
+  "disc_id": null
 },
 {
   "_id": 141,
   "club": "N/A",
   "displayName": "James A.",
   "pronouns": "He/Him",
-  "tenhou": "greatBit"
+  "tenhou": "greatBit",
+  "disc_id": null
 },
 {
   "_id": 142,
   "club": "OC Mahjong",
   "displayName": "Simon Y.",
   "pronouns": "He/Him",
-  "tenhou": "urapls"
+  "tenhou": "urapls",
+  "disc_id": null
 },
 {
   "_id": 143,
   "club": "N/A",
   "displayName": "Huxley S.",
   "pronouns": "He/Him",
-  "tenhou": "redsoul"
+  "tenhou": "redsoul",
+  "disc_id": null
 },
 {
   "_id": 144,
   "club": "N/A",
   "displayName": "Harrison C.",
   "pronouns": "He/Him",
-  "tenhou": "Suizo"
+  "tenhou": "Suizo",
+  "disc_id": null
 },
 {
   "_id": 145,
   "club": "OC Mahjong",
   "displayName": "Andrew L.",
   "pronouns": "He/Him",
-  "tenhou": "qt727"
+  "tenhou": "qt727",
+  "disc_id": null
 },
 {
   "_id": 146,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Chase B.",
   "pronouns": "they/any",
-  "tenhou": "ember"
+  "tenhou": "ember",
+  "disc_id": null
 },
 {
   "_id": 147,
   "club": "Riichi Nomi NYC",
   "displayName": "Michael W.",
   "pronouns": "He/Him",
-  "tenhou": "Soyuz"
+  "tenhou": "Soyuz",
+  "disc_id": null
 },
 {
   "_id": 148,
   "club": "Philadelphia Riichi Mahjong",
   "displayName": "Gaohan M.",
   "pronouns": "He/Him",
-  "tenhou": "不杠不舒服"
+  "tenhou": "不杠不舒服",
+  "disc_id": null
 },
 {
   "_id": 149,
   "club": "N/A",
   "displayName": "Jonathan F.",
   "pronouns": "He/Him",
-  "tenhou": "popte"
+  "tenhou": "popte",
+  "disc_id": null
 },
 {
   "_id": 150,
   "club": "N/A",
   "displayName": "Dave B.",
   "pronouns": "He/Him",
-  "tenhou": "gravaton"
+  "tenhou": "gravaton",
+  "disc_id": null
 },
 {
   "_id": 151,
   "club": "N/A",
   "displayName": "Logan F.",
   "pronouns": "He/Him",
-  "tenhou": "Ransom69"
+  "tenhou": "Ransom69",
+  "disc_id": null
 },
 {
   "_id": 152,
   "club": "N/A",
   "displayName": "Ai N.",
   "pronouns": "Any",
-  "tenhou": "愛拷問"
+  "tenhou": "愛拷問",
+  "disc_id": null
 },
 {
   "_id": 153,
   "club": "N/A",
   "displayName": "Henry M.",
   "pronouns": "He/Him",
-  "tenhou": "Stormo"
+  "tenhou": "Stormo",
+  "disc_id": null
 },
 {
   "_id": 154,
   "club": "Riichi Nomi NYC",
   "displayName": "Dave C.",
   "pronouns": "He/Him",
-  "tenhou": "gamesoft"
+  "tenhou": "gamesoft",
+  "disc_id": null
 },
 {
   "_id": 155,
   "club": "USPML",
   "displayName": "Nick N.",
   "pronouns": "He/Him",
-  "tenhou": "ミステール"
+  "tenhou": "ミステール",
+  "disc_id": null
 },
 {
   "_id": 156,
   "club": "Riichi Nomi NYC",
   "displayName": "Chris L.",
   "pronouns": "he/him",
-  "tenhou": "TheOneDM"
+  "tenhou": "TheOneDM",
+  "disc_id": null
 },
 {
   "_id": 157,
   "club": "N/A",
   "displayName": "Daniel T.",
   "pronouns": "he/him",
-  "tenhou": "mp22340"
+  "tenhou": "mp22340",
+  "disc_id": null
 },
 {
   "_id": 158,
   "club": "N/A",
   "displayName": "Erin W.",
   "pronouns": "She/Her",
-  "tenhou": "TMYoukai"
+  "tenhou": "TMYoukai",
+  "disc_id": null
 },
 {
   "_id": 159,
   "club": "PDX Riichi Mahjong Club",
   "displayName": "Jake M.",
   "pronouns": "He/Him",
-  "tenhou": "Chef_McM"
+  "tenhou": "Chef_McM",
+  "disc_id": null
 },
 {
   "_id": 160,
   "club": "DC Riichi Mahjong",
   "displayName": "Airi M.",
   "pronouns": "She/Her",
-  "tenhou": "愛里ん女性"
+  "tenhou": "愛里ん女性",
+  "disc_id": null
 },
 {
   "_id": 161,
   "club": "Riichi Nomi NYC",
   "displayName": "Kevin P.",
   "pronouns": "He/Him",
-  "tenhou": "ウェー"
+  "tenhou": "ウェー",
+  "disc_id": null
 },
 {
   "_id": 162,
   "club": "Riichi Nomi NYC",
   "displayName": "Charlie G.",
   "pronouns": "He/Him",
-  "tenhou": "alexei"
+  "tenhou": "alexei",
+  "disc_id": null
 },
 {
   "_id": 163,
   "club": "Snake Shack",
   "displayName": "Will M.",
   "pronouns": "He/Him",
-  "tenhou": "Redzone"
+  "tenhou": "Redzone",
+  "disc_id": null
 },
 {
   "_id": 164,
   "club": "N/A",
   "displayName": "Gabby C.",
   "pronouns": "She/Her",
-  "tenhou": "noona"
+  "tenhou": "noona",
+  "disc_id": null
 },
 {
   "_id": 165,
   "club": "N/A",
   "displayName": "Rob G.",
   "pronouns": "He/HimWon",
-  "tenhou": "RobGlass"
+  "tenhou": "RobGlass",
+  "disc_id": null
 },
 {
   "_id": 166,
   "club": "Pacific Mahjong League",
   "displayName": "Wen-Chien W.",
   "pronouns": "He/Him",
-  "tenhou": "SilentRn"
+  "tenhou": "SilentRn",
+  "disc_id": null
 },
 {
   "_id": 167,
   "club": "Pacific Mahjong League",
   "displayName": "Charles G.",
   "pronouns": "He/Him",
-  "tenhou": "ItsukuNo"
+  "tenhou": "ItsukuNo",
+  "disc_id": null
 },
 {
   "_id": 168,
   "club": "Pacific Mahjong League",
   "displayName": "Hawnlay S.",
   "pronouns": "He/Him",
-  "tenhou": "Safaris"
+  "tenhou": "Safaris",
+  "disc_id": null
 },
 {
   "_id": 169,
   "club": "USPML",
   "displayName": "Allon S.",
   "pronouns": "He/Him",
-  "tenhou": "drballon"
+  "tenhou": "drballon",
+  "disc_id": null
 },
 {
   "_id": 170,
   "club": "N/A",
   "displayName": "Stefan Z.",
   "pronouns": "He/Him",
-  "tenhou": "SergeAz2"
+  "tenhou": "SergeAz2",
+  "disc_id": null
 },
 {
   "_id": 171,
   "club": "N/A",
   "displayName": "Jaymond H.",
   "pronouns": "He/Him",
-  "tenhou": "チークスちゃん"
+  "tenhou": "チークスちゃん",
+  "disc_id": null
 },
 {
   "_id": 172,
   "club": "N/A",
   "displayName": "Matthew R.",
   "pronouns": "He/Him",
-  "tenhou": "PixlRush"
+  "tenhou": "PixlRush",
+  "disc_id": null
 },
 {
   "_id": 173,
   "club": "Columbus Riichi Mahjong",
   "displayName": "Travis H.",
   "pronouns": "He/Him",
-  "tenhou": "Lord_Xp"
+  "tenhou": "Lord_Xp",
+  "disc_id": null
 },
 {
   "_id": 174,
   "club": "N/A",
   "displayName": "Kayla C.",
   "pronouns": "She/Her",
-  "tenhou": "TheEarth"
+  "tenhou": "TheEarth",
+  "disc_id": null
 },
 {
   "_id": 175,
   "club": "PDX Riichi Mahjong Club",
   "displayName": "Quinn G.",
   "pronouns": "any pronouns",
-  "tenhou": "GDruid"
+  "tenhou": "GDruid",
+  "disc_id": null
 },
 {
   "_id": 176,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Blake P.",
   "pronouns": "any/all",
-  "tenhou": "PNWBati"
+  "tenhou": "PNWBati",
+  "disc_id": null
 },
 {
   "_id": 177,
   "club": "Snake Shack",
   "displayName": "Viet N.",
   "pronouns": "He/Him",
-  "tenhou": "redpnda"
+  "tenhou": "redpnda",
+  "disc_id": null
 },
 {
   "_id": 178,
   "club": "Pacific Mahjong League",
   "displayName": "Jai S.",
   "pronouns": "He/Him",
-  "tenhou": "jai"
+  "tenhou": "jai",
+  "disc_id": null
 },
 {
   "_id": 179,
   "club": "Japanese Professional Mahjong League (JPML)",
   "displayName": "Jenn B.",
   "pronouns": "She/Her",
-  "tenhou": "mj-jen"
+  "tenhou": "mj-jen",
+  "disc_id": null
 },
 {
   "_id": 180,
   "club": "Japanese Professional Mahjong League (JPML)",
   "displayName": "Garthe N.",
   "pronouns": "He/Him",
-  "tenhou": "fredflin"
+  "tenhou": "fredflin",
+  "disc_id": null
 },
 {
   "_id": 181,
   "club": "Riichi Nomi NYC",
   "displayName": "Quincy H.",
   "pronouns": "He/Him",
-  "tenhou": "Quincy"
+  "tenhou": "Quincy",
+  "disc_id": null
 },
 {
   "_id": 182,
   "club": "DC Riichi Mahjong",
   "displayName": "Nicholas W.",
   "pronouns": "He/Him",
-  "tenhou": "TxrUrdnk"
+  "tenhou": "TxrUrdnk",
+  "disc_id": null
 },
 {
   "_id": 183,
   "club": "Riichi Nomi NYC",
   "displayName": "Damian M.",
   "pronouns": "He/Him",
-  "tenhou": "Naroth"
+  "tenhou": "Naroth",
+  "disc_id": null
 },
 {
   "_id": 184,
   "club": "Chicago Area Mahjong",
   "displayName": "Erik D.",
   "pronouns": "He/Him",
-  "tenhou": "Erik_D"
+  "tenhou": "Erik_D",
+  "disc_id": null
 },
 {
   "_id": 185,
   "club": "Pacific Mahjong League",
   "displayName": "Isabella Y.",
   "pronouns": "She/Her",
-  "tenhou": "白Ichigo"
+  "tenhou": "白Ichigo",
+  "disc_id": null
 },
 {
   "_id": 186,
   "club": "Riichi Nomi NYC",
   "displayName": "Melissa F.",
   "pronouns": "She/Her",
-  "tenhou": "Ume424"
+  "tenhou": "Ume424",
+  "disc_id": null
 },
 {
   "_id": 187,
   "club": "N/A",
   "displayName": "Emily L.",
   "pronouns": "She/Her",
-  "tenhou": "katino"
+  "tenhou": "katino",
+  "disc_id": null
 },
 {
   "_id": 188,
   "club": "N/A",
   "displayName": "Elwyn T.",
   "pronouns": "He/Him",
-  "tenhou": "Noomba"
+  "tenhou": "Noomba",
+  "disc_id": null
 },
 {
   "_id": 189,
   "club": "Riichi Nomi NYC",
   "displayName": "Greg K.",
   "pronouns": "He/Him",
-  "tenhou": "kiwiiska"
+  "tenhou": "kiwiiska",
+  "disc_id": null
 },
 {
   "_id": 190,
   "club": "N/A",
   "displayName": "Jackie W.",
   "pronouns": "He/Him",
-  "tenhou": "Cyber777"
+  "tenhou": "Cyber777",
+  "disc_id": null
 },
 {
   "_id": 191,
   "club": "Riichi Nomi NYC",
   "displayName": "Rowen D.",
   "pronouns": "He/They",
-  "tenhou": "nano!"
+  "tenhou": "nano!",
+  "disc_id": null
 },
 {
   "_id": 192,
   "club": "Chicago Area Mahjong",
   "displayName": "Takahiro S.",
   "pronouns": "He/Him",
-  "tenhou": "ペンギンナイト"
+  "tenhou": "ペンギンナイト",
+  "disc_id": null
 },
 {
   "_id": 193,
   "club": "Riichi Nomi NYC",
   "displayName": "Miguel C.",
   "pronouns": "He/Him",
-  "tenhou": "TheWild西"
+  "tenhou": "TheWild西",
+  "disc_id": null
 },
 {
   "_id": 194,
   "club": "N/A",
   "displayName": "Monica A.",
   "pronouns": "She/Her",
-  "tenhou": "bakadora"
+  "tenhou": "bakadora",
+  "disc_id": null
 },
 {
   "_id": 195,
   "club": "N/A",
   "displayName": "Jackson O.",
   "pronouns": "He/Him",
-  "tenhou": "20thJack"
+  "tenhou": "20thJack",
+  "disc_id": null
 },
 {
   "_id": 196,
   "club": "Pacific Mahjong League",
   "displayName": "Jeff C.",
   "pronouns": "He/Him",
-  "tenhou": "コッコロママ"
+  "tenhou": "コッコロママ",
+  "disc_id": null
 },
 {
   "_id": 197,
   "club": "N/A",
   "displayName": "Barry W.",
   "pronouns": "He/Him",
-  "tenhou": "Barry2"
+  "tenhou": "Barry2",
+  "disc_id": null
 },
 {
   "_id": 198,
   "club": "N/A",
   "displayName": "Jonah M.",
   "pronouns": "He/Him",
-  "tenhou": "yokaimal"
+  "tenhou": "yokaimal",
+  "disc_id": null
 },
 {
   "_id": 199,
   "club": "TRRMA",
   "displayName": "TJ C.",
   "pronouns": "He/Him",
-  "tenhou": "CRaise14"
+  "tenhou": "CRaise14",
+  "disc_id": null
 },
 {
   "_id": 200,
   "club": "N/A",
   "displayName": "Xinlong H.",
   "pronouns": "He/Him",
-  "tenhou": "Unluck"
+  "tenhou": "Unluck",
+  "disc_id": null
 },
 {
   "_id": 201,
   "club": "Columbus Riichi Mahjong",
   "displayName": "Drew B.",
   "pronouns": "He/Him",
-  "tenhou": "naiya55"
+  "tenhou": "naiya55",
+  "disc_id": null
 },
 {
   "_id": 202,
   "club": "N/A",
   "displayName": "Yu-Hsiu S.",
   "pronouns": "He/Him",
-  "tenhou": "さくたん"
+  "tenhou": "さくたん",
+  "disc_id": null
 },
 {
   "_id": 203,
   "club": "N/A",
   "displayName": "Ean T.",
   "pronouns": "He/Him",
-  "tenhou": "AgntSeto"
+  "tenhou": "AgntSeto",
+  "disc_id": null
 },
 {
   "_id": 204,
   "club": "University of Wisconsin Riichi",
   "displayName": "John B.",
   "pronouns": "He/Him",
-  "tenhou": "ppp42"
+  "tenhou": "ppp42",
+  "disc_id": null
 },
 {
   "_id": 205,
   "club": "Riichi Rapids Mahjong",
   "displayName": "Nathan B.",
   "pronouns": "They/Them",
-  "tenhou": "Ichihime"
+  "tenhou": "Ichihime",
+  "disc_id": null
 },
 {
   "_id": 206,
   "club": "Columbus Riichi Mahjong",
   "displayName": "Terra L.",
   "pronouns": "She/Her",
-  "tenhou": "Gracidea"
+  "tenhou": "Gracidea",
+  "disc_id": null
 },
 {
   "_id": 207,
   "club": "DC Riichi Mahjong",
   "displayName": "Rey A.",
   "pronouns": "She/Her",
-  "tenhou": "平蝶鬼"
+  "tenhou": "平蝶鬼",
+  "disc_id": null
 },
 {
   "_id": 208,
   "club": "N/A",
   "displayName": "Jeffrey S.",
   "pronouns": "He/Him",
-  "tenhou": "Nogesca"
+  "tenhou": "Nogesca",
+  "disc_id": null
 },
 {
   "_id": 209,
   "club": "N/A",
   "displayName": "Jason Z.",
   "pronouns": "He/Him",
-  "tenhou": "KwwAsuna"
+  "tenhou": "KwwAsuna",
+  "disc_id": null
 },
 {
   "_id": 210,
   "club": "N/A",
   "displayName": "David K.",
   "pronouns": "He/Him",
-  "tenhou": "DemoK"
+  "tenhou": "DemoK",
+  "disc_id": null
 },
 {
   "_id": 211,
   "club": "N/A",
   "displayName": "Stephen M.",
   "pronouns": "He/Him",
-  "tenhou": "MrMcMeat"
+  "tenhou": "MrMcMeat",
+  "disc_id": null
 },
 {
   "_id": 212,
   "club": "DC Riichi Mahjong",
   "displayName": "Kyle P.",
   "pronouns": "He/Him",
-  "tenhou": "Kurlyttv"
+  "tenhou": "Kurlyttv",
+  "disc_id": null
 },
 {
   "_id": 213,
   "club": "Baltimore Mahjong",
   "displayName": "Tomisin L.",
   "pronouns": "They/Them",
-  "tenhou": "movieman"
+  "tenhou": "movieman",
+  "disc_id": null
 },
 {
   "_id": 214,
   "club": "DC Riichi Mahjong",
   "displayName": "Kevin Q.",
   "pronouns": "he/him",
-  "tenhou": "fog1ess"
+  "tenhou": "fog1ess",
+  "disc_id": null
 },
 {
   "_id": 215,
   "club": "Riichi Nomi NYC",
   "displayName": "Vinny T.",
   "pronouns": "He/Him",
-  "tenhou": "Noctus"
+  "tenhou": "Noctus",
+  "disc_id": null
 },
 {
   "_id": 216,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Garrett B.",
   "pronouns": "He/Him",
-  "tenhou": "tomaajan"
+  "tenhou": "tomaajan",
+  "disc_id": null
 },
 {
   "_id": 217,
   "club": "N/A",
   "displayName": "Matsuri H.",
   "pronouns": "She/Her",
-  "tenhou": "花崎祭"
+  "tenhou": "花崎祭",
+  "disc_id": null
 },
 {
   "_id": 218,
   "club": "N/A",
   "displayName": "Ricky L.",
   "pronouns": "He/Him",
-  "tenhou": "Polt"
+  "tenhou": "Polt",
+  "disc_id": null
 },
 {
   "_id": 219,
   "club": "Triangle Riichi Mahjong Club",
   "displayName": "Darrell M.",
   "pronouns": "He/Him",
-  "tenhou": "BLKAkagi"
+  "tenhou": "BLKAkagi",
+  "disc_id": null
 },
 {
   "_id": 220,
   "club": "Philadelphia Riichi Mahjong",
   "displayName": "Allen Z.",
   "pronouns": "He/Him",
-  "tenhou": "maynard"
+  "tenhou": "maynard",
+  "disc_id": null
 },
 {
   "_id": 221,
   "club": "USPML",
   "displayName": "Scott G.",
   "pronouns": "He/Him",
-  "tenhou": "Scott007"
+  "tenhou": "Scott007",
+  "disc_id": null
 },
 {
   "_id": 222,
   "club": "N/A",
   "displayName": "Tamas E.",
   "pronouns": "He/Him",
-  "tenhou": "hatsuber"
+  "tenhou": "hatsuber",
+  "disc_id": null
 },
 {
   "_id": 223,
   "club": "ASU Riichi Mahjong",
   "displayName": "Michael S.",
   "pronouns": "He/Him",
-  "tenhou": "dojima"
+  "tenhou": "dojima",
+  "disc_id": null
 },
 {
   "_id": 224,
   "club": "N/A",
   "displayName": "Eric N. [Unaffiliated]",
   "pronouns": "He/Him",
-  "tenhou": "Sakuzya"
+  "tenhou": "Sakuzya",
+  "disc_id": null
 },
 {
   "_id": 225,
   "club": "Riichi Nomi NYC",
   "displayName": "Michael X.",
   "pronouns": "He/Him",
-  "tenhou": "Xom"
+  "tenhou": "Xom",
+  "disc_id": null
 },
 {
   "_id": 226,
   "club": "C-ORPS (Clermont-Orlando Riichi Mahjong Squad)",
   "displayName": "Eric H.",
   "pronouns": "He/Him",
-  "tenhou": "Falconb"
+  "tenhou": "Falconb",
+  "disc_id": null
 },
 {
   "_id": 227,
   "club": "Riichi Nomi NYC",
   "displayName": "Yun Z.",
   "pronouns": "He/Him",
-  "tenhou": "yzsan"
+  "tenhou": "yzsan",
+  "disc_id": null
 },
 {
   "_id": 228,
   "club": "Riichi Nomi NYC",
   "displayName": "Nancy G.",
   "pronouns": "She/Her",
-  "tenhou": "N0NAME"
+  "tenhou": "N0NAME",
+  "disc_id": null
 },
 {
   "_id": 229,
   "club": "Southeast Michigan Riichi",
   "displayName": "Andrew S.",
   "pronouns": "He/Him",
-  "tenhou": "StPemis"
+  "tenhou": "StPemis",
+  "disc_id": null
 },
 {
   "_id": 230,
   "club": "Rocky Mountain Mahjong",
   "displayName": "James B.",
   "pronouns": "He/Him",
-  "tenhou": "神様最高"
+  "tenhou": "神様最高",
+  "disc_id": null
 },
 {
   "_id": 231,
   "club": "N/A",
   "displayName": "Adam P.",
   "pronouns": "He/Him",
-  "tenhou": "Perry!"
+  "tenhou": "Perry!",
+  "disc_id": null
 },
 {
   "_id": 232,
   "club": "N/A",
   "displayName": "Omar H.",
   "pronouns": "He/Him",
-  "tenhou": "Clog"
+  "tenhou": "Clog",
+  "disc_id": null
 },
 {
   "_id": 233,
   "club": "Greater Cincinnati Riichi Mahjong",
   "displayName": "Oliver K.",
   "pronouns": "He/Him",
-  "tenhou": "KaiserWi"
+  "tenhou": "KaiserWi",
+  "disc_id": null
 },
 {
   "_id": 234,
   "club": "Riichi Nomi NYC",
   "displayName": "Christopher D.",
   "pronouns": "He/Him",
-  "tenhou": "cannibal"
+  "tenhou": "cannibal",
+  "disc_id": null
 },
 {
   "_id": 235,
   "club": "Lone Star Riichi",
   "displayName": "Eric N. [DFW]",
   "pronouns": "He/Him",
-  "tenhou": "noradic"
+  "tenhou": "noradic",
+  "disc_id": null
 },
 {
   "_id": 236,
   "club": "Riichi Nomi NYC",
   "displayName": "Ross C.",
   "pronouns": "He/Him",
-  "tenhou": "Snypshot"
+  "tenhou": "Snypshot",
+  "disc_id": null
 },
 {
   "_id": 237,
   "club": "Longhorn Riichi (University of Texas)",
   "displayName": "Dani W.",
   "pronouns": "They/Them",
-  "tenhou": "demeter"
+  "tenhou": "demeter",
+  "disc_id": null
 },
 {
   "_id": 239,
   "club": "N/A",
   "displayName": "Madeleine A.",
   "pronouns": "She/Her",
-  "tenhou": "mables"
+  "tenhou": "mables",
+  "disc_id": null
 },
 {
   "_id": 238,
   "club": "Rocky Mountain Mahjong",
   "displayName": "TC P.",
   "pronouns": "They/Them",
-  "tenhou": "spires"
+  "tenhou": "spires",
+  "disc_id": null
 },
 {
   "_id": 240,
   "club": "N/A",
   "displayName": "Eric C.",
   "pronouns": "He/Him",
-  "tenhou": "ggez"
+  "tenhou": "ggez",
+  "disc_id": null
 },
 {
   "_id": 241,
   "club": "N/A",
   "displayName": "Andrew Y.",
   "pronouns": "He/Him",
-  "tenhou": "rkbird"
+  "tenhou": "rkbird",
+  "disc_id": null
 },
 {
   "_id": 242,
   "club": "DC Riichi Mahjong",
   "displayName": "Adam K.",
   "pronouns": "He/Him",
-  "tenhou": "NoYaku"
+  "tenhou": "NoYaku",
+  "disc_id": null
 },
 {
   "_id": 243,
   "club": "N/A",
   "displayName": "Aaron S.",
   "pronouns": "He/Him",
-  "tenhou": "Skinzy"
+  "tenhou": "Skinzy",
+  "disc_id": null
 },
 {
   "_id": 244,
   "club": "Philadelphia Riichi Mahjong",
   "displayName": "Luis V.",
   "pronouns": "He/Him",
-  "tenhou": "Umandsf"
+  "tenhou": "Umandsf",
+  "disc_id": null
 },
 {
   "_id": 245,
   "club": "N/A",
   "displayName": "Brian W.",
   "pronouns": "He/Him",
-  "tenhou": "SilverDF"
+  "tenhou": "SilverDF",
+  "disc_id": null
 },
 {
   "_id": 246,
   "club": "Oklahoma Mahjong",
   "displayName": "Kaysen L.",
   "pronouns": "She/Her",
-  "tenhou": "CheerPan"
+  "tenhou": "CheerPan",
+  "disc_id": null
 },
 {
   "_id": 247,
   "club": "Pacific Mahjong League",
   "displayName": "Edward Z.",
   "pronouns": "He/Him",
-  "tenhou": "Rorange"
+  "tenhou": "Rorange",
+  "disc_id": null
 },
 {
   "_id": 248,
   "club": "N/A",
   "displayName": "Tzen-Hao N.",
   "pronouns": "He/Him",
-  "tenhou": "t_ng"
+  "tenhou": "t_ng",
+  "disc_id": null
 },
 {
   "_id": 249,
   "club": "N/A",
   "displayName": "JT D.",
   "pronouns": "He/Him",
-  "tenhou": "ゴロゴロCat"
+  "tenhou": "ゴロゴロCat",
+  "disc_id": null
 },
 {
   "_id": 250,
   "club": "N/A",
   "displayName": "Bob B.",
   "pronouns": "He/Him",
-  "tenhou": "Pride"
+  "tenhou": "Pride",
+  "disc_id": null
 },
 {
   "_id": 251,
   "club": "DC Riichi Mahjong",
   "displayName": "Benjamin E.",
   "pronouns": "He/Him",
-  "tenhou": "千位問"
+  "tenhou": "千位問",
+  "disc_id": null
 },
 {
   "_id": 252,
   "club": "N/A",
   "displayName": "Kate D.",
   "pronouns": "She/Her",
-  "tenhou": "egregirl"
+  "tenhou": "egregirl",
+  "disc_id": null
 },
 {
   "_id": 253,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Donald K.",
   "pronouns": "He/Him",
-  "tenhou": "Scample"
+  "tenhou": "Scample",
+  "disc_id": null
 },
 {
   "_id": 254,
   "club": "Rocky Mountain Mahjong",
   "displayName": "Remie R.",
   "pronouns": "He/Him",
-  "tenhou": "Hakoops"
+  "tenhou": "Hakoops",
+  "disc_id": null
 },
 {
   "_id": 255,
   "club": "PDX Riichi Mahjong Club",
   "displayName": "Alex O.",
   "pronouns": "He/Him",
-  "tenhou": "Obye1"
+  "tenhou": "Obye1",
+  "disc_id": null
 },
 {
   "_id": 256,
   "club": "Pacific Mahjong League",
   "displayName": "Skye C.",
   "pronouns": "She/Her",
-  "tenhou": "sci"
+  "tenhou": "sci",
+  "disc_id": null
 },
 {
   "_id": 257,
   "club": "RIT Nine Gates",
   "displayName": "Tess M.",
   "pronouns": "She/Her",
-  "tenhou": "静花"
+  "tenhou": "静花",
+  "disc_id": null
 },
 {
   "_id": 258,
   "club": "N/A",
   "displayName": "Justin W.",
   "pronouns": "He/Him",
-  "tenhou": "Soup"
+  "tenhou": "Soup",
+  "disc_id": null
 },
 {
   "_id": 259,
   "club": "Southeast Michigan Riichi",
   "displayName": "Dylan B.",
   "pronouns": "He/Him",
-  "tenhou": "DBOY42"
+  "tenhou": "DBOY42",
+  "disc_id": null
 },
 {
   "_id": 260,
   "club": "N/A",
   "displayName": "Michael B.",
   "pronouns": "He/Him",
-  "tenhou": "aoc924"
+  "tenhou": "aoc924",
+  "disc_id": null
 },
 {
   "_id": 261,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Noelle H.",
   "pronouns": "She/Her",
-  "tenhou": "バイン"
+  "tenhou": "バイン",
+  "disc_id": null
 },
 {
   "_id": 262,
   "club": "N/A",
   "displayName": "Eden L.",
   "pronouns": "They/Them",
-  "tenhou": "Elster"
+  "tenhou": "Elster",
+  "disc_id": null
 },
 {
   "_id": 263,
   "club": "N/A",
   "displayName": "Sam C.",
   "pronouns": "They/Them",
-  "tenhou": "Intergi"
+  "tenhou": "Intergi",
+  "disc_id": null
 },
 {
   "_id": 264,
   "club": "Philadelphia Riichi Mahjong",
   "displayName": "Kristy C.",
   "pronouns": "She/Her",
-  "tenhou": "syoro"
+  "tenhou": "syoro",
+  "disc_id": null
 },
 {
   "_id": 265,
   "club": "Snake Shack",
   "displayName": "Ran C.",
   "pronouns": "She/Her",
-  "tenhou": "rantan"
+  "tenhou": "rantan",
+  "disc_id": null
 },
 {
   "_id": 266,
   "club": "N/A",
   "displayName": "Michael L. [ND]",
   "pronouns": "He/Him",
-  "tenhou": "RvBishop"
+  "tenhou": "RvBishop",
+  "disc_id": null
 },
 {
   "_id": 267,
   "club": "N/A",
   "displayName": "Gino G.",
   "pronouns": "He/Him",
-  "tenhou": "opt1zer"
+  "tenhou": "opt1zer",
+  "disc_id": null
 },
 {
   "_id": 268,
   "club": "DC Riichi Mahjong",
   "displayName": "Alex C.",
   "pronouns": "He/Him",
-  "tenhou": "Zanzaben"
+  "tenhou": "Zanzaben",
+  "disc_id": null
 },
 {
   "_id": 269,
   "club": "RIT Nine Gates",
   "displayName": "Ty K.",
   "pronouns": "He/Him",
-  "tenhou": "Caranut"
+  "tenhou": "Caranut",
+  "disc_id": null
 },
 {
   "_id": 270,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Aiden B.",
   "pronouns": "He/Him",
-  "tenhou": "Sharpe"
+  "tenhou": "Sharpe",
+  "disc_id": null
 },
 {
   "_id": 271,
   "club": "Space City Riichi",
   "displayName": "Dave D.",
   "pronouns": "He/Him",
-  "tenhou": "xaved"
+  "tenhou": "xaved",
+  "disc_id": null
 },
 {
   "_id": 272,
   "club": "Rocky Mountain Mahjong",
   "displayName": "Michael G. [RM]",
   "pronouns": "He/Him",
-  "tenhou": "冗談人"
+  "tenhou": "冗談人",
+  "disc_id": null
 },
 {
   "_id": 273,
   "club": "N/A",
   "displayName": "Yuk Fai Y.",
   "pronouns": "He/Him",
-  "tenhou": "poch"
+  "tenhou": "poch",
+  "disc_id": null
 },
 {
   "_id": 274,
   "club": "DC Riichi Mahjong",
   "displayName": "Dennis S.",
   "pronouns": "He/Him",
-  "tenhou": "Tacko"
+  "tenhou": "Tacko",
+  "disc_id": null
 },
 {
   "_id": 275,
   "club": "N/A",
   "displayName": "Jake B.",
   "pronouns": "He/Him",
-  "tenhou": "ブレナンJ"
+  "tenhou": "ブレナンJ",
+  "disc_id": "293131043567828993"
 },
 {
   "_id": 276,
   "club": "N/A",
   "displayName": "Mary Jane Y.",
   "pronouns": "She/Her",
-  "tenhou": "mjfury"
+  "tenhou": "mjfury",
+  "disc_id": null
 },
 {
   "_id": 277,
   "club": "Pacific Mahjong League",
   "displayName": "Adriel O.",
   "pronouns": "He/Him",
-  "tenhou": "神の群れ"
+  "tenhou": "神の群れ",
+  "disc_id": null
 },
 {
   "_id": 278,
   "club": "N/A",
   "displayName": "Maya B.",
   "pronouns": "She/Her",
-  "tenhou": "catputer"
+  "tenhou": "catputer",
+  "disc_id": null
 },
 {
   "_id": 279,
   "club": "Riichi Nomi NYC",
   "displayName": "Michael H.",
   "pronouns": "He/Him",
-  "tenhou": "redpanda"
+  "tenhou": "redpanda",
+  "disc_id": null
 },
 {
   "_id": 280,
   "club": "Pacific Mahjong League",
   "displayName": "Kaden C.",
   "pronouns": "He/Him",
-  "tenhou": "Tookoo"
+  "tenhou": "Tookoo",
+  "disc_id": null
 },
 {
   "_id": 281,
   "club": "MIT Mahjong",
   "displayName": "Alec Z.",
   "pronouns": "He/Him",
-  "tenhou": "opgamer"
+  "tenhou": "opgamer",
+  "disc_id": null
 },
 {
   "_id": 282,
   "club": "N/A",
   "displayName": "Yanfeng C.",
   "pronouns": "He/Him",
-  "tenhou": "NecoNe"
+  "tenhou": "NecoNe",
+  "disc_id": null
 },
 {
   "_id": 283,
   "club": "N/A",
   "displayName": "Bradley B.",
   "pronouns": "He/Him",
-  "tenhou": "captobvi"
+  "tenhou": "captobvi",
+  "disc_id": null
 },
 {
   "_id": 284,
   "club": "N/A",
   "displayName": "Pamela R.",
   "pronouns": "She/Her",
-  "tenhou": "pdruiz"
+  "tenhou": "pdruiz",
+  "disc_id": null
 },
 {
   "_id": 285,
   "club": "N/A",
   "displayName": "Derrick P.",
   "pronouns": "He/Him",
-  "tenhou": "dperry"
+  "tenhou": "dperry",
+  "disc_id": null
 },
 {
   "_id": 286,
   "club": "N/A",
   "displayName": "Mason W.",
   "pronouns": "He/Him",
-  "tenhou": "starcraf"
+  "tenhou": "starcraf",
+  "disc_id": null
 },
 {
   "_id": 287,
   "club": "Philadelphia Riichi Mahjong",
   "displayName": "Yueming G.",
   "pronouns": "He/Him",
-  "tenhou": "破防雀士"
+  "tenhou": "破防雀士",
+  "disc_id": null
 },
 {
   "_id": 288,
   "club": "USPML",
   "displayName": "Bianca A.",
   "pronouns": "She/Her",
-  "tenhou": "Ashby"
+  "tenhou": "Ashby",
+  "disc_id": null
 },
 {
   "_id": 289,
   "club": "N/A",
   "displayName": "Katherine P.",
   "pronouns": "She/Her",
-  "tenhou": "Jevette"
+  "tenhou": "Jevette",
+  "disc_id": null
 },
 {
   "_id": 290,
   "club": "Seattle Riichi Mahjong Club",
   "displayName": "Steven H.",
   "pronouns": "He/Him",
-  "tenhou": "TamFree"
+  "tenhou": "TamFree",
+  "disc_id": null
 },
 {
   "_id": 291,
   "club": "Riichi Nomi NYC",
   "displayName": "Zachary S.",
   "pronouns": "He/Him",
-  "tenhou": "redwings"
+  "tenhou": "redwings",
+  "disc_id": null
 },
 {
   "_id": 292,
   "club": "N/A",
   "displayName": "Lesley L.",
   "pronouns": "She/Her",
-  "tenhou": "CaMo"
+  "tenhou": "CaMo",
+  "disc_id": null
 },
 {
   "_id": 293,
   "club": "Philadelphia Riichi Mahjong",
   "displayName": "Yishen W.",
   "pronouns": "He/Him",
-  "tenhou": "Yuki0107"
+  "tenhou": "Yuki0107",
+  "disc_id": null
 },
 {
   "_id": 294,
   "club": "N/A",
   "displayName": "Tim Z.",
   "pronouns": "He/Him",
-  "tenhou": "px2333"
+  "tenhou": "px2333",
+  "disc_id": null
 },
 {
   "_id": 295,
   "club": "Atlanta Riichi Club",
   "displayName": "Reisen I.",
   "pronouns": "She/Her",
-  "tenhou": "mosque"
+  "tenhou": "mosque",
+  "disc_id": null
 }]

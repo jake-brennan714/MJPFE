@@ -68,7 +68,7 @@ export function PlayerList(queryinfo: QueryInfo) {
                         <ul className="list-group">
                             {players.map((player) => (
                                 <li key={player.displayName} className="player">
-                                    <a href={`http://localhost:5173/player?p=${player._id}`}>{player.displayName}</a>
+                                    <a href={`http://localhost:5173/player/?p=${player._id}`}>{player.displayName}</a>
                                 </li>
                             ))}
                         </ul>
@@ -89,7 +89,7 @@ export function PlayerList(queryinfo: QueryInfo) {
                 <ul className="list-group">
                     {players.map((player) => (
                         <li key={player.displayName} className="player">
-                            <a href={`http://localhost:5173/player?p=${player._id}`}>{player.displayName}</a>
+                            <a href={`http://localhost:5173/player/?p=${player._id}`}>{player.displayName}</a>
                         </li>
                     ))}
                 </ul>

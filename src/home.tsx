@@ -6,6 +6,9 @@ import './home.css';
 import Footer from "./footer.tsx";
 
 export function WhatIs() {
+    // if (window.location.pathname === "/player") {
+    //     alert(1);
+    // }
     return (
         <>
             <div id="what-is-arml">

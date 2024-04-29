@@ -64,27 +64,36 @@ export function PlayerList(queryinfo: QueryInfo) {
 
             return (
                 <>
-                    <ul className="list-group">
-                        {players.map((player) => (
-                            <li key={player.displayName} className="player">
-                                <a href={`../player/${player._id}`}>{player.displayName}</a>
-                            </li>
-                        ))}
-                    </ul>
+                    <div className="list-box">
+                        <ul className="list-group">
+                            {players.map((player) => (
+                                <li key={player.displayName} className="player">
+                                    <a href={`../player/${player._id}`}>{player.displayName}</a>
+                                </li>
+                            ))}
+                        </ul>
+                    </div>
                 </>
             )
         }
     }
 
+    const players = [];
+    for (let i = 1; i < listPlayers.length; i++) {
+        players.push(listPlayers[i]);
+    }
+
     return (
         <>
-            <ul className="list-group">
-                {listPlayers.map((player) => (
-                    <li key={player.displayName} className="player">
-                        <a href={`../player/${player._id}`}>{player.displayName}</a>
-                    </li>
-                ))}
-            </ul>
+            <div className="list-box">
+                <ul className="list-group">
+                    {players.map((player) => (
+                        <li key={player.displayName} className="player">
+                            <a href={`../player/${player._id}`}>{player.displayName}</a>
+                        </li>
+                    ))}
+                </ul>
+            </div>
         </>
     )
 }

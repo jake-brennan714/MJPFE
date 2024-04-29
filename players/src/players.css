@@ -1,6 +1,41 @@
+:root {
+    --width-of-button: 10em;
+}
+
+.list-box {
+    width: 75%;
+    margin: auto;
+    border: 2px black solid;
+}
+
 .list-group {
     list-style-type: none;
     padding: 0;
     margin: 0;
 }
 
+.player {
+    margin: auto;
+    text-align: center;
+    border-bottom: 1px black solid;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.player > a:link, .player > a:visited {
+    background-color: white;
+    color: black;
+    width: var(--width-of-button);
+    padding: 1em calc(calc(100% - calc(var(--width-of-button) + 1em)) / 2);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.player > a:hover{
+    background-color: #c5c5c5;
+}
+
+.player > a:active {
+    background-color: #a0a0a0;
+}

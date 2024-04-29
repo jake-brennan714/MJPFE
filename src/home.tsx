@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
+import NavBar from "./navbar.tsx";
 import './home.css';
 import Footer from "./footer.tsx";
 
@@ -22,14 +23,20 @@ export function WhatIs() {
     // return null;
 }
 
+ReactDOM.createRoot(document.getElementById("root")!).render(
+    <React.StrictMode>
+        <NavBar />
+    </React.StrictMode>
+);
+
 ReactDOM.createRoot(document.getElementById("content-root")!).render(
     <React.StrictMode>
-        <WhatIs></WhatIs>
+        <WhatIs />
     </React.StrictMode>
 );
 
 ReactDOM.createRoot(document.getElementById("footer")!).render(
     <React.StrictMode>
-        <Footer></Footer>
+        <Footer />
     </React.StrictMode>
 )

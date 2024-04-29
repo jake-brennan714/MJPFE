@@ -1,0 +1,2072 @@
+[{
+  "_id": 0,
+  "club": null,
+  "displayName": "",
+  "pronouns": "",
+  "tenhou": null
+},
+{
+  "_id": 1,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Edwin D.",
+  "pronouns": "he/him",
+  "tenhou": "12-6'er"
+},
+{
+  "_id": 2,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Travis S.",
+  "pronouns": "he/him",
+  "tenhou": "FakeGG"
+},
+{
+  "_id": 3,
+  "club": "Greater Cincinnati Riichi Mahjong",
+  "displayName": "Max S.",
+  "pronouns": "he/him",
+  "tenhou": "ShiLPYo"
+},
+{
+  "_id": 4,
+  "club": "N/A",
+  "displayName": "Kevin S.",
+  "pronouns": "",
+  "tenhou": "Faelil"
+},
+{
+  "_id": 5,
+  "club": "LAPOM",
+  "displayName": "Vincent Y.",
+  "pronouns": "",
+  "tenhou": "DS4_千織"
+},
+{
+  "_id": 6,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Anthony H.",
+  "pronouns": "he/him",
+  "tenhou": "Misder"
+},
+{
+  "_id": 7,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Andres H.",
+  "pronouns": "he/him",
+  "tenhou": "Tohsaka"
+},
+{
+  "_id": 8,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Tian Y.",
+  "pronouns": "",
+  "tenhou": "Propane"
+},
+{
+  "_id": 9,
+  "club": "Chicago Area Mahjong",
+  "displayName": "Aldwin G.",
+  "pronouns": "",
+  "tenhou": "KyuuSC"
+},
+{
+  "_id": 10,
+  "club": "N/A",
+  "displayName": "Kevin J.",
+  "pronouns": "",
+  "tenhou": "KayJay"
+},
+{
+  "_id": 11,
+  "club": "N/A",
+  "displayName": "Patrick P.",
+  "pronouns": "he/him",
+  "tenhou": "PattyP"
+},
+{
+  "_id": 12,
+  "club": "Pacific Mahjong League",
+  "displayName": "Alex W.",
+  "pronouns": "he/him",
+  "tenhou": "point"
+},
+{
+  "_id": 13,
+  "club": "N/A",
+  "displayName": "Tucker D.",
+  "pronouns": "they/them",
+  "tenhou": "Ennui"
+},
+{
+  "_id": 14,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "John E.",
+  "pronouns": "",
+  "tenhou": "RonJonA"
+},
+{
+  "_id": 15,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Ada H.",
+  "pronouns": "she/her",
+  "tenhou": "kityloaf"
+},
+{
+  "_id": 16,
+  "club": "Panhandle Mahjong",
+  "displayName": "Ryan A.",
+  "pronouns": "",
+  "tenhou": "パンダフアイサー"
+},
+{
+  "_id": 17,
+  "club": "Panhandle Mahjong",
+  "displayName": "Ryan J.",
+  "pronouns": "he/him",
+  "tenhou": "Sashimi"
+},
+{
+  "_id": 18,
+  "club": "N/A",
+  "displayName": "Jeremy F.",
+  "pronouns": "he/him",
+  "tenhou": "ICHIBAN"
+},
+{
+  "_id": 19,
+  "club": "Chicago Area Mahjong",
+  "displayName": "Bret L.",
+  "pronouns": "he/him, they/them",
+  "tenhou": "Bret"
+},
+{
+  "_id": 20,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Andre C.",
+  "pronouns": "he/him",
+  "tenhou": "6HanDre"
+},
+{
+  "_id": 21,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Steven F.",
+  "pronouns": "He/Him",
+  "tenhou": "銀の津波"
+},
+{
+  "_id": 22,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Kinyan L.",
+  "pronouns": "she/her",
+  "tenhou": "Yukitora"
+},
+{
+  "_id": 23,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Joe M.",
+  "pronouns": "he/him",
+  "tenhou": "Jowzer1"
+},
+{
+  "_id": 24,
+  "club": "Pacific Mahjong League",
+  "displayName": "Stanley D.",
+  "pronouns": "He/Him",
+  "tenhou": "AuraSoul"
+},
+{
+  "_id": 25,
+  "club": "N/A",
+  "displayName": "Perry W.",
+  "pronouns": "",
+  "tenhou": "BigHat"
+},
+{
+  "_id": 26,
+  "club": "N/A",
+  "displayName": "Cesar F.",
+  "pronouns": "",
+  "tenhou": "m3w0s"
+},
+{
+  "_id": 27,
+  "club": "N/A",
+  "displayName": "Christopher P.",
+  "pronouns": "",
+  "tenhou": "Pint"
+},
+{
+  "_id": 28,
+  "club": "Chicago Area Mahjong",
+  "displayName": "Aliena M.",
+  "pronouns": "she/they",
+  "tenhou": "jamcat"
+},
+{
+  "_id": 29,
+  "club": "N/A",
+  "displayName": "Daniel N.",
+  "pronouns": "he/him",
+  "tenhou": "SJS"
+},
+{
+  "_id": 30,
+  "club": "Baltimore Mahjong",
+  "displayName": "Arthur M.",
+  "pronouns": "",
+  "tenhou": "Corak"
+},
+{
+  "_id": 31,
+  "club": "Philadelphia Riichi Mahjong",
+  "displayName": "Sarah A.",
+  "pronouns": "she/her",
+  "tenhou": "wolfos"
+},
+{
+  "_id": 32,
+  "club": "DC Riichi Mahjong",
+  "displayName": "Dustin F.",
+  "pronouns": "he/him",
+  "tenhou": "qetc"
+},
+{
+  "_id": 33,
+  "club": "Pacific Mahjong League",
+  "displayName": "Oliver N.",
+  "pronouns": "he/him",
+  "tenhou": "Ashye"
+},
+{
+  "_id": 34,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Claire P.",
+  "pronouns": "she/her",
+  "tenhou": "THURSDAY"
+},
+{
+  "_id": 35,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Pio Y.",
+  "pronouns": "",
+  "tenhou": "pio"
+},
+{
+  "_id": 36,
+  "club": "N/A",
+  "displayName": "Bill S.",
+  "pronouns": "",
+  "tenhou": "SpklBill"
+},
+{
+  "_id": 37,
+  "club": "Columbus Riichi Mahjong",
+  "displayName": "Kathy H.",
+  "pronouns": "she/her",
+  "tenhou": "Crow_77"
+},
+{
+  "_id": 38,
+  "club": "N/A",
+  "displayName": "Hoang L.",
+  "pronouns": "he/him",
+  "tenhou": "banhcuon"
+},
+{
+  "_id": 39,
+  "club": "Southeast Michigan Riichi",
+  "displayName": "Steve A.",
+  "pronouns": "he/him",
+  "tenhou": "zelkin"
+},
+{
+  "_id": 40,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Ming-Ko C.",
+  "pronouns": "",
+  "tenhou": "techbro"
+},
+{
+  "_id": 41,
+  "club": "OC Mahjong",
+  "displayName": "Aaron L.",
+  "pronouns": "",
+  "tenhou": "Xeno"
+},
+{
+  "_id": 42,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Zach F.",
+  "pronouns": "",
+  "tenhou": "鳳雛子"
+},
+{
+  "_id": 43,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Mathias S.",
+  "pronouns": "he/him",
+  "tenhou": "Mathstar"
+},
+{
+  "_id": 44,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Luce C.",
+  "pronouns": "she/her",
+  "tenhou": "lanxia"
+},
+{
+  "_id": 45,
+  "club": "Southeast Michigan Riichi",
+  "displayName": "Aaron E.",
+  "pronouns": "",
+  "tenhou": "CsBlue"
+},
+{
+  "_id": 46,
+  "club": "Dekamore Riichi Mahjong",
+  "displayName": "Nathanael K.",
+  "pronouns": "he/him",
+  "tenhou": "tateniu"
+},
+{
+  "_id": 47,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Josh K.",
+  "pronouns": "he/him",
+  "tenhou": "カン明耀"
+},
+{
+  "_id": 48,
+  "club": "Chicago Area Mahjong",
+  "displayName": "Sixuan L.",
+  "pronouns": "he/him",
+  "tenhou": "Shiromii"
+},
+{
+  "_id": 49,
+  "club": "N/A",
+  "displayName": "Albert Y.",
+  "pronouns": "",
+  "tenhou": "on9Namer"
+},
+{
+  "_id": 50,
+  "club": "Snake Shack",
+  "displayName": "Lucas L.",
+  "pronouns": "he/him",
+  "tenhou": "Navitas"
+},
+{
+  "_id": 51,
+  "club": "N/A",
+  "displayName": "Zelong L.",
+  "pronouns": "he/him",
+  "tenhou": "lzl65825"
+},
+{
+  "_id": 52,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Erik K.",
+  "pronouns": "he/him",
+  "tenhou": "eriknomi"
+},
+{
+  "_id": 53,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Amy G.",
+  "pronouns": "she/her",
+  "tenhou": "amyhaiku"
+},
+{
+  "_id": 54,
+  "club": "N/A",
+  "displayName": "Gina D.",
+  "pronouns": "",
+  "tenhou": "Buterfly"
+},
+{
+  "_id": 55,
+  "club": "N/A",
+  "displayName": "Stephanie V.",
+  "pronouns": "",
+  "tenhou": "三色ステフ"
+},
+{
+  "_id": 56,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Kaz U.",
+  "pronouns": "",
+  "tenhou": "KSea"
+},
+{
+  "_id": 57,
+  "club": "N/A",
+  "displayName": "Axel K.",
+  "pronouns": "",
+  "tenhou": "LM"
+},
+{
+  "_id": 58,
+  "club": "N/A",
+  "displayName": "Jun F.",
+  "pronouns": "",
+  "tenhou": "Shinrako"
+},
+{
+  "_id": 59,
+  "club": "N/A",
+  "displayName": "Carl M.",
+  "pronouns": "",
+  "tenhou": "Ketsuban"
+},
+{
+  "_id": 60,
+  "club": "Longhorn Riichi (University of Texas)",
+  "displayName": "Peter G.",
+  "pronouns": "he/him",
+  "tenhou": "Hypera"
+},
+{
+  "_id": 61,
+  "club": "Middle Tennessee Riichi Club",
+  "displayName": "Robert D.",
+  "pronouns": "",
+  "tenhou": "Rampi"
+},
+{
+  "_id": 62,
+  "club": "N/A",
+  "displayName": "Benjamin H.",
+  "pronouns": "",
+  "tenhou": "Ghostwhl"
+},
+{
+  "_id": 63,
+  "club": "Pacific Mahjong League",
+  "displayName": "Xu L.",
+  "pronouns": "he/him",
+  "tenhou": "xuli1072"
+},
+{
+  "_id": 64,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Vincent C.",
+  "pronouns": "he/him",
+  "tenhou": "Farcon"
+},
+{
+  "_id": 65,
+  "club": "Oklahoma Mahjong",
+  "displayName": "Blane S.",
+  "pronouns": "he/him",
+  "tenhou": "SmaMan"
+},
+{
+  "_id": 66,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Tristan J.",
+  "pronouns": "he/him",
+  "tenhou": "birdup"
+},
+{
+  "_id": 67,
+  "club": "Pacific Mahjong League",
+  "displayName": "Rachel H.",
+  "pronouns": "she/her",
+  "tenhou": "rachel"
+},
+{
+  "_id": 68,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Kevin N.",
+  "pronouns": "He/Him",
+  "tenhou": "sibowlr"
+},
+{
+  "_id": 69,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Christian M.",
+  "pronouns": "he/him",
+  "tenhou": "chralem"
+},
+{
+  "_id": 70,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Ash G.",
+  "pronouns": "",
+  "tenhou": "サソリビ"
+},
+{
+  "_id": 71,
+  "club": "Pacific Mahjong League",
+  "displayName": "Simon H.",
+  "pronouns": "",
+  "tenhou": "アリス大好き"
+},
+{
+  "_id": 72,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Kristaps B.",
+  "pronouns": "",
+  "tenhou": "Ruka985"
+},
+{
+  "_id": 73,
+  "club": "Pacific Mahjong League",
+  "displayName": "Austin T.",
+  "pronouns": "",
+  "tenhou": "liebe"
+},
+{
+  "_id": 74,
+  "club": "Pacific Mahjong League",
+  "displayName": "Bichen W.",
+  "pronouns": "he/him",
+  "tenhou": "konamura"
+},
+{
+  "_id": 75,
+  "club": "DFW Mahjong",
+  "displayName": "Clinton V.",
+  "pronouns": "he/him",
+  "tenhou": "cdv2022"
+},
+{
+  "_id": 76,
+  "club": "N/A",
+  "displayName": "Matthew M.",
+  "pronouns": "he/him",
+  "tenhou": "幽紫"
+},
+{
+  "_id": 77,
+  "club": "Pacific Mahjong League",
+  "displayName": "Sophia L.",
+  "pronouns": "",
+  "tenhou": "Sophtoph"
+},
+{
+  "_id": 78,
+  "club": "N/A",
+  "displayName": "Bruce W.",
+  "pronouns": "",
+  "tenhou": "b4k4"
+},
+{
+  "_id": 79,
+  "club": "N/A",
+  "displayName": "Carl T.",
+  "pronouns": "He/Him",
+  "tenhou": "正義の斷幺"
+},
+{
+  "_id": 80,
+  "club": "Panhandle Mahjong",
+  "displayName": "Scott H.",
+  "pronouns": "He/Him",
+  "tenhou": "StatDust"
+},
+{
+  "_id": 81,
+  "club": "N/A",
+  "displayName": "Tommy S.",
+  "pronouns": "",
+  "tenhou": "jytommy"
+},
+{
+  "_id": 82,
+  "club": "Orlando Riichi Mahjong",
+  "displayName": "David J.",
+  "pronouns": "",
+  "tenhou": "Astro!!!"
+},
+{
+  "_id": 83,
+  "club": "Greater Cincinnati Riichi Mahjong",
+  "displayName": "Joshua R.",
+  "pronouns": "he/his",
+  "tenhou": "玉藻のゲイ"
+},
+{
+  "_id": 84,
+  "club": "Oklahoma Mahjong",
+  "displayName": "Riley B.",
+  "pronouns": "he/him",
+  "tenhou": "rzbick"
+},
+{
+  "_id": 85,
+  "club": "N/A",
+  "displayName": "Lin A.",
+  "pronouns": "",
+  "tenhou": "anlin430"
+},
+{
+  "_id": 86,
+  "club": "Southeast Michigan Riichi",
+  "displayName": "Anja M.",
+  "pronouns": "she/her",
+  "tenhou": "メガネっ娘"
+},
+{
+  "_id": 87,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Yuanxi L.",
+  "pronouns": "",
+  "tenhou": "LY1nX"
+},
+{
+  "_id": 88,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Felippe F.",
+  "pronouns": "",
+  "tenhou": "Felippe"
+},
+{
+  "_id": 89,
+  "club": "Hammergirl Anime",
+  "displayName": "Luke M.",
+  "pronouns": "He/Him",
+  "tenhou": "LukeARML"
+},
+{
+  "_id": 90,
+  "club": "RIT Nine Gates",
+  "displayName": "Michael M.",
+  "pronouns": "",
+  "tenhou": "McLeod"
+},
+{
+  "_id": 91,
+  "club": "Hammergirl Anime",
+  "displayName": "Jason T.",
+  "pronouns": "",
+  "tenhou": "Pressx"
+},
+{
+  "_id": 92,
+  "club": "Hammergirl Anime",
+  "displayName": "Andrew F.",
+  "pronouns": "",
+  "tenhou": "Oktavia"
+},
+{
+  "_id": 93,
+  "club": "Hammergirl Anime",
+  "displayName": "Everett L.",
+  "pronouns": "",
+  "tenhou": "MrHat"
+},
+{
+  "_id": 94,
+  "club": "Hammergirl Anime",
+  "displayName": "Bryce W.",
+  "pronouns": "he/him",
+  "tenhou": "NTWRS644"
+},
+{
+  "_id": 95,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Sam D.",
+  "pronouns": "",
+  "tenhou": "lera"
+},
+{
+  "_id": 96,
+  "club": "Hammergirl Anime",
+  "displayName": "Jian J.",
+  "pronouns": "",
+  "tenhou": "blank"
+},
+{
+  "_id": 97,
+  "club": "Hammergirl Anime",
+  "displayName": "Molly L.",
+  "pronouns": "",
+  "tenhou": "sofia"
+},
+{
+  "_id": 98,
+  "club": "Longhorn Riichi (University of Texas)",
+  "displayName": "Philip Z.",
+  "pronouns": "he/him",
+  "tenhou": "Nehalem"
+},
+{
+  "_id": 99,
+  "club": "N/A",
+  "displayName": "Cassandra M.",
+  "pronouns": "she/her",
+  "tenhou": "Ukitten"
+},
+{
+  "_id": 100,
+  "club": "LAPOM",
+  "displayName": "Alec S.",
+  "pronouns": "he/him",
+  "tenhou": "Alec"
+},
+{
+  "_id": 101,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Shane B.",
+  "pronouns": "he/him",
+  "tenhou": "SlimDizz"
+},
+{
+  "_id": 102,
+  "club": "Greater Cincinnati Riichi Mahjong",
+  "displayName": "Cruz C.",
+  "pronouns": "",
+  "tenhou": "MCMXCVI"
+},
+{
+  "_id": 103,
+  "club": "Pacific Mahjong League",
+  "displayName": "Travis G.",
+  "pronouns": "he/him",
+  "tenhou": "Sirocco"
+},
+{
+  "_id": 104,
+  "club": "N/A",
+  "displayName": "Haru S.",
+  "pronouns": "",
+  "tenhou": "pororo"
+},
+{
+  "_id": 105,
+  "club": "Riichi Nomi NYC",
+  "displayName": "",
+  "pronouns": "",
+  "tenhou": "/tenhou"
+},
+{
+  "_id": 106,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Yoshi K.",
+  "pronouns": "",
+  "tenhou": "スーパーヨッシー"
+},
+{
+  "_id": 107,
+  "club": "Panhandle Mahjong",
+  "displayName": "Jeremiah D.",
+  "pronouns": "",
+  "tenhou": "Jdubs"
+},
+{
+  "_id": 108,
+  "club": "Hammergirl Anime",
+  "displayName": "Michael G.",
+  "pronouns": "",
+  "tenhou": "じゃがいもえ"
+},
+{
+  "_id": 109,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Dakota W.",
+  "pronouns": "",
+  "tenhou": "g2wolf"
+},
+{
+  "_id": 110,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Garrick L.",
+  "pronouns": "he/him",
+  "tenhou": "Aethryen"
+},
+{
+  "_id": 111,
+  "club": "Southeast Michigan Riichi",
+  "displayName": "Michael L. [MI]",
+  "pronouns": "he/him",
+  "tenhou": "ΔM"
+},
+{
+  "_id": 112,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Michael V.",
+  "pronouns": "he/him",
+  "tenhou": "AnotherM"
+},
+{
+  "_id": 113,
+  "club": "LAPOM",
+  "displayName": "Andrew R.",
+  "pronouns": "he/him",
+  "tenhou": "OneShot"
+},
+{
+  "_id": 114,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Joshua B.",
+  "pronouns": "",
+  "tenhou": "JkrBoar"
+},
+{
+  "_id": 115,
+  "club": "N/A",
+  "displayName": "Jonathan S.",
+  "pronouns": "he/him",
+  "tenhou": "jsdf"
+},
+{
+  "_id": 116,
+  "club": "Snake Shack",
+  "displayName": "Sylvie B.",
+  "pronouns": "they/them",
+  "tenhou": "Sylv007"
+},
+{
+  "_id": 117,
+  "club": "Dekamore Riichi Mahjong",
+  "displayName": "Kevin D.",
+  "pronouns": "he/him",
+  "tenhou": "Dutchman"
+},
+{
+  "_id": 118,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Rizeng Z.",
+  "pronouns": "",
+  "tenhou": "日増"
+},
+{
+  "_id": 119,
+  "club": "N/A",
+  "displayName": "Jacob R.",
+  "pronouns": "",
+  "tenhou": "Creed6ft"
+},
+{
+  "_id": 120,
+  "club": "Southeast Michigan Riichi",
+  "displayName": "Brian T.",
+  "pronouns": "He/Him",
+  "tenhou": "茨木伊吹"
+},
+{
+  "_id": 121,
+  "club": "Pacific Mahjong League",
+  "displayName": "Jeff T.",
+  "pronouns": "he/him",
+  "tenhou": "taxi"
+},
+{
+  "_id": 122,
+  "club": "Southeast Michigan Riichi",
+  "displayName": "Jocilyn W.",
+  "pronouns": "She/They",
+  "tenhou": "senbei"
+},
+{
+  "_id": 123,
+  "club": "Riichi Rapids Mahjong",
+  "displayName": "Jessa A.",
+  "pronouns": "she/her",
+  "tenhou": "Ipomoea"
+},
+{
+  "_id": 124,
+  "club": "N/A",
+  "displayName": "Jasmine Y.",
+  "pronouns": "",
+  "tenhou": "JasXD17"
+},
+{
+  "_id": 125,
+  "club": "Riichi Rapids Mahjong",
+  "displayName": "Ryan D.",
+  "pronouns": "he, him",
+  "tenhou": "Ovar"
+},
+{
+  "_id": 126,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Xiangyu J.",
+  "pronouns": "He/Him",
+  "tenhou": "Jxyy"
+},
+{
+  "_id": 127,
+  "club": "N/A",
+  "displayName": "Amari K.",
+  "pronouns": "she/her",
+  "tenhou": "Scallion"
+},
+{
+  "_id": 128,
+  "club": "PDX Riichi Mahjong Club",
+  "displayName": "Julian K.",
+  "pronouns": "he/him",
+  "tenhou": "Jucchan"
+},
+{
+  "_id": 129,
+  "club": "Southeast Michigan Riichi",
+  "displayName": "Vikram P.",
+  "pronouns": "he/him",
+  "tenhou": "whatsina"
+},
+{
+  "_id": 130,
+  "club": "Pacific Mahjong League",
+  "displayName": "Alfred C.",
+  "pronouns": "",
+  "tenhou": "Feeding"
+},
+{
+  "_id": 131,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Leon P.",
+  "pronouns": "he/him",
+  "tenhou": "TWMN0610"
+},
+{
+  "_id": 132,
+  "club": "N/A",
+  "displayName": "Diyu Y.",
+  "pronouns": "",
+  "tenhou": "xshy1"
+},
+{
+  "_id": 133,
+  "club": "MIT Mahjong",
+  "displayName": "Steven L.",
+  "pronouns": "he/him",
+  "tenhou": "SirMrGuy"
+},
+{
+  "_id": 134,
+  "club": "N/A",
+  "displayName": "Jinwoo K.",
+  "pronouns": "",
+  "tenhou": "Shikiya"
+},
+{
+  "_id": 135,
+  "club": "Southeast Michigan Riichi",
+  "displayName": "Zach W.",
+  "pronouns": "",
+  "tenhou": "termdex"
+},
+{
+  "_id": 136,
+  "club": "Hammergirl Anime",
+  "displayName": "Gaetano L.",
+  "pronouns": "",
+  "tenhou": "LowCiel"
+},
+{
+  "_id": 137,
+  "club": "N/A",
+  "displayName": "Robert C.",
+  "pronouns": "he, him, his",
+  "tenhou": "otiose"
+},
+{
+  "_id": 138,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Christine R.",
+  "pronouns": "",
+  "tenhou": "Xtine"
+},
+{
+  "_id": 139,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Eric L.",
+  "pronouns": "",
+  "tenhou": "Eile"
+},
+{
+  "_id": 140,
+  "club": "Columbus Riichi Mahjong",
+  "displayName": "William S.",
+  "pronouns": "He/Him",
+  "tenhou": "Kujira"
+},
+{
+  "_id": 141,
+  "club": "N/A",
+  "displayName": "James A.",
+  "pronouns": "He/Him",
+  "tenhou": "greatBit"
+},
+{
+  "_id": 142,
+  "club": "OC Mahjong",
+  "displayName": "Simon Y.",
+  "pronouns": "He/Him",
+  "tenhou": "urapls"
+},
+{
+  "_id": 143,
+  "club": "N/A",
+  "displayName": "Huxley S.",
+  "pronouns": "He/Him",
+  "tenhou": "redsoul"
+},
+{
+  "_id": 144,
+  "club": "N/A",
+  "displayName": "Harrison C.",
+  "pronouns": "He/Him",
+  "tenhou": "Suizo"
+},
+{
+  "_id": 145,
+  "club": "OC Mahjong",
+  "displayName": "Andrew L.",
+  "pronouns": "He/Him",
+  "tenhou": "qt727"
+},
+{
+  "_id": 146,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Chase B.",
+  "pronouns": "they/any",
+  "tenhou": "ember"
+},
+{
+  "_id": 147,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Michael W.",
+  "pronouns": "He/Him",
+  "tenhou": "Soyuz"
+},
+{
+  "_id": 148,
+  "club": "Philadelphia Riichi Mahjong",
+  "displayName": "Gaohan M.",
+  "pronouns": "He/Him",
+  "tenhou": "不杠不舒服"
+},
+{
+  "_id": 149,
+  "club": "N/A",
+  "displayName": "Jonathan F.",
+  "pronouns": "He/Him",
+  "tenhou": "popte"
+},
+{
+  "_id": 150,
+  "club": "N/A",
+  "displayName": "Dave B.",
+  "pronouns": "He/Him",
+  "tenhou": "gravaton"
+},
+{
+  "_id": 151,
+  "club": "N/A",
+  "displayName": "Logan F.",
+  "pronouns": "He/Him",
+  "tenhou": "Ransom69"
+},
+{
+  "_id": 152,
+  "club": "N/A",
+  "displayName": "Ai N.",
+  "pronouns": "Any",
+  "tenhou": "愛拷問"
+},
+{
+  "_id": 153,
+  "club": "N/A",
+  "displayName": "Henry M.",
+  "pronouns": "He/Him",
+  "tenhou": "Stormo"
+},
+{
+  "_id": 154,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Dave C.",
+  "pronouns": "He/Him",
+  "tenhou": "gamesoft"
+},
+{
+  "_id": 155,
+  "club": "USPML",
+  "displayName": "Nick N.",
+  "pronouns": "He/Him",
+  "tenhou": "ミステール"
+},
+{
+  "_id": 156,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Chris L.",
+  "pronouns": "he/him",
+  "tenhou": "TheOneDM"
+},
+{
+  "_id": 157,
+  "club": "N/A",
+  "displayName": "Daniel T.",
+  "pronouns": "he/him",
+  "tenhou": "mp22340"
+},
+{
+  "_id": 158,
+  "club": "N/A",
+  "displayName": "Erin W.",
+  "pronouns": "She/Her",
+  "tenhou": "TMYoukai"
+},
+{
+  "_id": 159,
+  "club": "PDX Riichi Mahjong Club",
+  "displayName": "Jake M.",
+  "pronouns": "He/Him",
+  "tenhou": "Chef_McM"
+},
+{
+  "_id": 160,
+  "club": "DC Riichi Mahjong",
+  "displayName": "Airi M.",
+  "pronouns": "She/Her",
+  "tenhou": "愛里ん女性"
+},
+{
+  "_id": 161,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Kevin P.",
+  "pronouns": "He/Him",
+  "tenhou": "ウェー"
+},
+{
+  "_id": 162,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Charlie G.",
+  "pronouns": "He/Him",
+  "tenhou": "alexei"
+},
+{
+  "_id": 163,
+  "club": "Snake Shack",
+  "displayName": "Will M.",
+  "pronouns": "He/Him",
+  "tenhou": "Redzone"
+},
+{
+  "_id": 164,
+  "club": "N/A",
+  "displayName": "Gabby C.",
+  "pronouns": "She/Her",
+  "tenhou": "noona"
+},
+{
+  "_id": 165,
+  "club": "N/A",
+  "displayName": "Rob G.",
+  "pronouns": "He/HimWon",
+  "tenhou": "RobGlass"
+},
+{
+  "_id": 166,
+  "club": "Pacific Mahjong League",
+  "displayName": "Wen-Chien W.",
+  "pronouns": "He/Him",
+  "tenhou": "SilentRn"
+},
+{
+  "_id": 167,
+  "club": "Pacific Mahjong League",
+  "displayName": "Charles G.",
+  "pronouns": "He/Him",
+  "tenhou": "ItsukuNo"
+},
+{
+  "_id": 168,
+  "club": "Pacific Mahjong League",
+  "displayName": "Hawnlay S.",
+  "pronouns": "He/Him",
+  "tenhou": "Safaris"
+},
+{
+  "_id": 169,
+  "club": "USPML",
+  "displayName": "Allon S.",
+  "pronouns": "He/Him",
+  "tenhou": "drballon"
+},
+{
+  "_id": 170,
+  "club": "N/A",
+  "displayName": "Stefan Z.",
+  "pronouns": "He/Him",
+  "tenhou": "SergeAz2"
+},
+{
+  "_id": 171,
+  "club": "N/A",
+  "displayName": "Jaymond H.",
+  "pronouns": "He/Him",
+  "tenhou": "チークスちゃん"
+},
+{
+  "_id": 172,
+  "club": "N/A",
+  "displayName": "Matthew R.",
+  "pronouns": "He/Him",
+  "tenhou": "PixlRush"
+},
+{
+  "_id": 173,
+  "club": "Columbus Riichi Mahjong",
+  "displayName": "Travis H.",
+  "pronouns": "He/Him",
+  "tenhou": "Lord_Xp"
+},
+{
+  "_id": 174,
+  "club": "N/A",
+  "displayName": "Kayla C.",
+  "pronouns": "She/Her",
+  "tenhou": "TheEarth"
+},
+{
+  "_id": 175,
+  "club": "PDX Riichi Mahjong Club",
+  "displayName": "Quinn G.",
+  "pronouns": "any pronouns",
+  "tenhou": "GDruid"
+},
+{
+  "_id": 176,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Blake P.",
+  "pronouns": "any/all",
+  "tenhou": "PNWBati"
+},
+{
+  "_id": 177,
+  "club": "Snake Shack",
+  "displayName": "Viet N.",
+  "pronouns": "He/Him",
+  "tenhou": "redpnda"
+},
+{
+  "_id": 178,
+  "club": "Pacific Mahjong League",
+  "displayName": "Jai S.",
+  "pronouns": "He/Him",
+  "tenhou": "jai"
+},
+{
+  "_id": 179,
+  "club": "Japanese Professional Mahjong League (JPML)",
+  "displayName": "Jenn B.",
+  "pronouns": "She/Her",
+  "tenhou": "mj-jen"
+},
+{
+  "_id": 180,
+  "club": "Japanese Professional Mahjong League (JPML)",
+  "displayName": "Garthe N.",
+  "pronouns": "He/Him",
+  "tenhou": "fredflin"
+},
+{
+  "_id": 181,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Quincy H.",
+  "pronouns": "He/Him",
+  "tenhou": "Quincy"
+},
+{
+  "_id": 182,
+  "club": "DC Riichi Mahjong",
+  "displayName": "Nicholas W.",
+  "pronouns": "He/Him",
+  "tenhou": "TxrUrdnk"
+},
+{
+  "_id": 183,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Damian M.",
+  "pronouns": "He/Him",
+  "tenhou": "Naroth"
+},
+{
+  "_id": 184,
+  "club": "Chicago Area Mahjong",
+  "displayName": "Erik D.",
+  "pronouns": "He/Him",
+  "tenhou": "Erik_D"
+},
+{
+  "_id": 185,
+  "club": "Pacific Mahjong League",
+  "displayName": "Isabella Y.",
+  "pronouns": "She/Her",
+  "tenhou": "白Ichigo"
+},
+{
+  "_id": 186,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Melissa F.",
+  "pronouns": "She/Her",
+  "tenhou": "Ume424"
+},
+{
+  "_id": 187,
+  "club": "N/A",
+  "displayName": "Emily L.",
+  "pronouns": "She/Her",
+  "tenhou": "katino"
+},
+{
+  "_id": 188,
+  "club": "N/A",
+  "displayName": "Elwyn T.",
+  "pronouns": "He/Him",
+  "tenhou": "Noomba"
+},
+{
+  "_id": 189,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Greg K.",
+  "pronouns": "He/Him",
+  "tenhou": "kiwiiska"
+},
+{
+  "_id": 190,
+  "club": "N/A",
+  "displayName": "Jackie W.",
+  "pronouns": "He/Him",
+  "tenhou": "Cyber777"
+},
+{
+  "_id": 191,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Rowen D.",
+  "pronouns": "He/They",
+  "tenhou": "nano!"
+},
+{
+  "_id": 192,
+  "club": "Chicago Area Mahjong",
+  "displayName": "Takahiro S.",
+  "pronouns": "He/Him",
+  "tenhou": "ペンギンナイト"
+},
+{
+  "_id": 193,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Miguel C.",
+  "pronouns": "He/Him",
+  "tenhou": "TheWild西"
+},
+{
+  "_id": 194,
+  "club": "N/A",
+  "displayName": "Monica A.",
+  "pronouns": "She/Her",
+  "tenhou": "bakadora"
+},
+{
+  "_id": 195,
+  "club": "N/A",
+  "displayName": "Jackson O.",
+  "pronouns": "He/Him",
+  "tenhou": "20thJack"
+},
+{
+  "_id": 196,
+  "club": "Pacific Mahjong League",
+  "displayName": "Jeff C.",
+  "pronouns": "He/Him",
+  "tenhou": "コッコロママ"
+},
+{
+  "_id": 197,
+  "club": "N/A",
+  "displayName": "Barry W.",
+  "pronouns": "He/Him",
+  "tenhou": "Barry2"
+},
+{
+  "_id": 198,
+  "club": "N/A",
+  "displayName": "Jonah M.",
+  "pronouns": "He/Him",
+  "tenhou": "yokaimal"
+},
+{
+  "_id": 199,
+  "club": "TRRMA",
+  "displayName": "TJ C.",
+  "pronouns": "He/Him",
+  "tenhou": "CRaise14"
+},
+{
+  "_id": 200,
+  "club": "N/A",
+  "displayName": "Xinlong H.",
+  "pronouns": "He/Him",
+  "tenhou": "Unluck"
+},
+{
+  "_id": 201,
+  "club": "Columbus Riichi Mahjong",
+  "displayName": "Drew B.",
+  "pronouns": "He/Him",
+  "tenhou": "naiya55"
+},
+{
+  "_id": 202,
+  "club": "N/A",
+  "displayName": "Yu-Hsiu S.",
+  "pronouns": "He/Him",
+  "tenhou": "さくたん"
+},
+{
+  "_id": 203,
+  "club": "N/A",
+  "displayName": "Ean T.",
+  "pronouns": "He/Him",
+  "tenhou": "AgntSeto"
+},
+{
+  "_id": 204,
+  "club": "University of Wisconsin Riichi",
+  "displayName": "John B.",
+  "pronouns": "He/Him",
+  "tenhou": "ppp42"
+},
+{
+  "_id": 205,
+  "club": "Riichi Rapids Mahjong",
+  "displayName": "Nathan B.",
+  "pronouns": "They/Them",
+  "tenhou": "Ichihime"
+},
+{
+  "_id": 206,
+  "club": "Columbus Riichi Mahjong",
+  "displayName": "Terra L.",
+  "pronouns": "She/Her",
+  "tenhou": "Gracidea"
+},
+{
+  "_id": 207,
+  "club": "DC Riichi Mahjong",
+  "displayName": "Rey A.",
+  "pronouns": "She/Her",
+  "tenhou": "平蝶鬼"
+},
+{
+  "_id": 208,
+  "club": "N/A",
+  "displayName": "Jeffrey S.",
+  "pronouns": "He/Him",
+  "tenhou": "Nogesca"
+},
+{
+  "_id": 209,
+  "club": "N/A",
+  "displayName": "Jason Z.",
+  "pronouns": "He/Him",
+  "tenhou": "KwwAsuna"
+},
+{
+  "_id": 210,
+  "club": "N/A",
+  "displayName": "David K.",
+  "pronouns": "He/Him",
+  "tenhou": "DemoK"
+},
+{
+  "_id": 211,
+  "club": "N/A",
+  "displayName": "Stephen M.",
+  "pronouns": "He/Him",
+  "tenhou": "MrMcMeat"
+},
+{
+  "_id": 212,
+  "club": "DC Riichi Mahjong",
+  "displayName": "Kyle P.",
+  "pronouns": "He/Him",
+  "tenhou": "Kurlyttv"
+},
+{
+  "_id": 213,
+  "club": "Baltimore Mahjong",
+  "displayName": "Tomisin L.",
+  "pronouns": "They/Them",
+  "tenhou": "movieman"
+},
+{
+  "_id": 214,
+  "club": "DC Riichi Mahjong",
+  "displayName": "Kevin Q.",
+  "pronouns": "he/him",
+  "tenhou": "fog1ess"
+},
+{
+  "_id": 215,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Vinny T.",
+  "pronouns": "He/Him",
+  "tenhou": "Noctus"
+},
+{
+  "_id": 216,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Garrett B.",
+  "pronouns": "He/Him",
+  "tenhou": "tomaajan"
+},
+{
+  "_id": 217,
+  "club": "N/A",
+  "displayName": "Matsuri H.",
+  "pronouns": "She/Her",
+  "tenhou": "花崎祭"
+},
+{
+  "_id": 218,
+  "club": "N/A",
+  "displayName": "Ricky L.",
+  "pronouns": "He/Him",
+  "tenhou": "Polt"
+},
+{
+  "_id": 219,
+  "club": "Triangle Riichi Mahjong Club",
+  "displayName": "Darrell M.",
+  "pronouns": "He/Him",
+  "tenhou": "BLKAkagi"
+},
+{
+  "_id": 220,
+  "club": "Philadelphia Riichi Mahjong",
+  "displayName": "Allen Z.",
+  "pronouns": "He/Him",
+  "tenhou": "maynard"
+},
+{
+  "_id": 221,
+  "club": "USPML",
+  "displayName": "Scott G.",
+  "pronouns": "He/Him",
+  "tenhou": "Scott007"
+},
+{
+  "_id": 222,
+  "club": "N/A",
+  "displayName": "Tamas E.",
+  "pronouns": "He/Him",
+  "tenhou": "hatsuber"
+},
+{
+  "_id": 223,
+  "club": "ASU Riichi Mahjong",
+  "displayName": "Michael S.",
+  "pronouns": "He/Him",
+  "tenhou": "dojima"
+},
+{
+  "_id": 224,
+  "club": "N/A",
+  "displayName": "Eric N. [Unaffiliated]",
+  "pronouns": "He/Him",
+  "tenhou": "Sakuzya"
+},
+{
+  "_id": 225,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Michael X.",
+  "pronouns": "He/Him",
+  "tenhou": "Xom"
+},
+{
+  "_id": 226,
+  "club": "C-ORPS (Clermont-Orlando Riichi Mahjong Squad)",
+  "displayName": "Eric H.",
+  "pronouns": "He/Him",
+  "tenhou": "Falconb"
+},
+{
+  "_id": 227,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Yun Z.",
+  "pronouns": "He/Him",
+  "tenhou": "yzsan"
+},
+{
+  "_id": 228,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Nancy G.",
+  "pronouns": "She/Her",
+  "tenhou": "N0NAME"
+},
+{
+  "_id": 229,
+  "club": "Southeast Michigan Riichi",
+  "displayName": "Andrew S.",
+  "pronouns": "He/Him",
+  "tenhou": "StPemis"
+},
+{
+  "_id": 230,
+  "club": "Rocky Mountain Mahjong",
+  "displayName": "James B.",
+  "pronouns": "He/Him",
+  "tenhou": "神様最高"
+},
+{
+  "_id": 231,
+  "club": "N/A",
+  "displayName": "Adam P.",
+  "pronouns": "He/Him",
+  "tenhou": "Perry!"
+},
+{
+  "_id": 232,
+  "club": "N/A",
+  "displayName": "Omar H.",
+  "pronouns": "He/Him",
+  "tenhou": "Clog"
+},
+{
+  "_id": 233,
+  "club": "Greater Cincinnati Riichi Mahjong",
+  "displayName": "Oliver K.",
+  "pronouns": "He/Him",
+  "tenhou": "KaiserWi"
+},
+{
+  "_id": 234,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Christopher D.",
+  "pronouns": "He/Him",
+  "tenhou": "cannibal"
+},
+{
+  "_id": 235,
+  "club": "Lone Star Riichi",
+  "displayName": "Eric N. [DFW]",
+  "pronouns": "He/Him",
+  "tenhou": "noradic"
+},
+{
+  "_id": 236,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Ross C.",
+  "pronouns": "He/Him",
+  "tenhou": "Snypshot"
+},
+{
+  "_id": 237,
+  "club": "Longhorn Riichi (University of Texas)",
+  "displayName": "Dani W.",
+  "pronouns": "They/Them",
+  "tenhou": "demeter"
+},
+{
+  "_id": 239,
+  "club": "N/A",
+  "displayName": "Madeleine A.",
+  "pronouns": "She/Her",
+  "tenhou": "mables"
+},
+{
+  "_id": 238,
+  "club": "Rocky Mountain Mahjong",
+  "displayName": "TC P.",
+  "pronouns": "They/Them",
+  "tenhou": "spires"
+},
+{
+  "_id": 240,
+  "club": "N/A",
+  "displayName": "Eric C.",
+  "pronouns": "He/Him",
+  "tenhou": "ggez"
+},
+{
+  "_id": 241,
+  "club": "N/A",
+  "displayName": "Andrew Y.",
+  "pronouns": "He/Him",
+  "tenhou": "rkbird"
+},
+{
+  "_id": 242,
+  "club": "DC Riichi Mahjong",
+  "displayName": "Adam K.",
+  "pronouns": "He/Him",
+  "tenhou": "NoYaku"
+},
+{
+  "_id": 243,
+  "club": "N/A",
+  "displayName": "Aaron S.",
+  "pronouns": "He/Him",
+  "tenhou": "Skinzy"
+},
+{
+  "_id": 244,
+  "club": "Philadelphia Riichi Mahjong",
+  "displayName": "Luis V.",
+  "pronouns": "He/Him",
+  "tenhou": "Umandsf"
+},
+{
+  "_id": 245,
+  "club": "N/A",
+  "displayName": "Brian W.",
+  "pronouns": "He/Him",
+  "tenhou": "SilverDF"
+},
+{
+  "_id": 246,
+  "club": "Oklahoma Mahjong",
+  "displayName": "Kaysen L.",
+  "pronouns": "She/Her",
+  "tenhou": "CheerPan"
+},
+{
+  "_id": 247,
+  "club": "Pacific Mahjong League",
+  "displayName": "Edward Z.",
+  "pronouns": "He/Him",
+  "tenhou": "Rorange"
+},
+{
+  "_id": 248,
+  "club": "N/A",
+  "displayName": "Tzen-Hao N.",
+  "pronouns": "He/Him",
+  "tenhou": "t_ng"
+},
+{
+  "_id": 249,
+  "club": "N/A",
+  "displayName": "JT D.",
+  "pronouns": "He/Him",
+  "tenhou": "ゴロゴロCat"
+},
+{
+  "_id": 250,
+  "club": "N/A",
+  "displayName": "Bob B.",
+  "pronouns": "He/Him",
+  "tenhou": "Pride"
+},
+{
+  "_id": 251,
+  "club": "DC Riichi Mahjong",
+  "displayName": "Benjamin E.",
+  "pronouns": "He/Him",
+  "tenhou": "千位問"
+},
+{
+  "_id": 252,
+  "club": "N/A",
+  "displayName": "Kate D.",
+  "pronouns": "She/Her",
+  "tenhou": "egregirl"
+},
+{
+  "_id": 253,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Donald K.",
+  "pronouns": "He/Him",
+  "tenhou": "Scample"
+},
+{
+  "_id": 254,
+  "club": "Rocky Mountain Mahjong",
+  "displayName": "Remie R.",
+  "pronouns": "He/Him",
+  "tenhou": "Hakoops"
+},
+{
+  "_id": 255,
+  "club": "PDX Riichi Mahjong Club",
+  "displayName": "Alex O.",
+  "pronouns": "He/Him",
+  "tenhou": "Obye1"
+},
+{
+  "_id": 256,
+  "club": "Pacific Mahjong League",
+  "displayName": "Skye C.",
+  "pronouns": "She/Her",
+  "tenhou": "sci"
+},
+{
+  "_id": 257,
+  "club": "RIT Nine Gates",
+  "displayName": "Tess M.",
+  "pronouns": "She/Her",
+  "tenhou": "静花"
+},
+{
+  "_id": 258,
+  "club": "N/A",
+  "displayName": "Justin W.",
+  "pronouns": "He/Him",
+  "tenhou": "Soup"
+},
+{
+  "_id": 259,
+  "club": "Southeast Michigan Riichi",
+  "displayName": "Dylan B.",
+  "pronouns": "He/Him",
+  "tenhou": "DBOY42"
+},
+{
+  "_id": 260,
+  "club": "N/A",
+  "displayName": "Michael B.",
+  "pronouns": "He/Him",
+  "tenhou": "aoc924"
+},
+{
+  "_id": 261,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Noelle H.",
+  "pronouns": "She/Her",
+  "tenhou": "バイン"
+},
+{
+  "_id": 262,
+  "club": "N/A",
+  "displayName": "Eden L.",
+  "pronouns": "They/Them",
+  "tenhou": "Elster"
+},
+{
+  "_id": 263,
+  "club": "N/A",
+  "displayName": "Sam C.",
+  "pronouns": "They/Them",
+  "tenhou": "Intergi"
+},
+{
+  "_id": 264,
+  "club": "Philadelphia Riichi Mahjong",
+  "displayName": "Kristy C.",
+  "pronouns": "She/Her",
+  "tenhou": "syoro"
+},
+{
+  "_id": 265,
+  "club": "Snake Shack",
+  "displayName": "Ran C.",
+  "pronouns": "She/Her",
+  "tenhou": "rantan"
+},
+{
+  "_id": 266,
+  "club": "N/A",
+  "displayName": "Michael L. [ND]",
+  "pronouns": "He/Him",
+  "tenhou": "RvBishop"
+},
+{
+  "_id": 267,
+  "club": "N/A",
+  "displayName": "Gino G.",
+  "pronouns": "He/Him",
+  "tenhou": "opt1zer"
+},
+{
+  "_id": 268,
+  "club": "DC Riichi Mahjong",
+  "displayName": "Alex C.",
+  "pronouns": "He/Him",
+  "tenhou": "Zanzaben"
+},
+{
+  "_id": 269,
+  "club": "RIT Nine Gates",
+  "displayName": "Ty K.",
+  "pronouns": "He/Him",
+  "tenhou": "Caranut"
+},
+{
+  "_id": 270,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Aiden B.",
+  "pronouns": "He/Him",
+  "tenhou": "Sharpe"
+},
+{
+  "_id": 271,
+  "club": "Space City Riichi",
+  "displayName": "Dave D.",
+  "pronouns": "He/Him",
+  "tenhou": "xaved"
+},
+{
+  "_id": 272,
+  "club": "Rocky Mountain Mahjong",
+  "displayName": "Michael G. [RM]",
+  "pronouns": "He/Him",
+  "tenhou": "冗談人"
+},
+{
+  "_id": 273,
+  "club": "N/A",
+  "displayName": "Yuk Fai Y.",
+  "pronouns": "He/Him",
+  "tenhou": "poch"
+},
+{
+  "_id": 274,
+  "club": "DC Riichi Mahjong",
+  "displayName": "Dennis S.",
+  "pronouns": "He/Him",
+  "tenhou": "Tacko"
+},
+{
+  "_id": 275,
+  "club": "N/A",
+  "displayName": "Jake B.",
+  "pronouns": "He/Him",
+  "tenhou": "ブレナンJ"
+},
+{
+  "_id": 276,
+  "club": "N/A",
+  "displayName": "Mary Jane Y.",
+  "pronouns": "She/Her",
+  "tenhou": "mjfury"
+},
+{
+  "_id": 277,
+  "club": "Pacific Mahjong League",
+  "displayName": "Adriel O.",
+  "pronouns": "He/Him",
+  "tenhou": "神の群れ"
+},
+{
+  "_id": 278,
+  "club": "N/A",
+  "displayName": "Maya B.",
+  "pronouns": "She/Her",
+  "tenhou": "catputer"
+},
+{
+  "_id": 279,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Michael H.",
+  "pronouns": "He/Him",
+  "tenhou": "redpanda"
+},
+{
+  "_id": 280,
+  "club": "Pacific Mahjong League",
+  "displayName": "Kaden C.",
+  "pronouns": "He/Him",
+  "tenhou": "Tookoo"
+},
+{
+  "_id": 281,
+  "club": "MIT Mahjong",
+  "displayName": "Alec Z.",
+  "pronouns": "He/Him",
+  "tenhou": "opgamer"
+},
+{
+  "_id": 282,
+  "club": "N/A",
+  "displayName": "Yanfeng C.",
+  "pronouns": "He/Him",
+  "tenhou": "NecoNe"
+},
+{
+  "_id": 283,
+  "club": "N/A",
+  "displayName": "Bradley B.",
+  "pronouns": "He/Him",
+  "tenhou": "captobvi"
+},
+{
+  "_id": 284,
+  "club": "N/A",
+  "displayName": "Pamela R.",
+  "pronouns": "She/Her",
+  "tenhou": "pdruiz"
+},
+{
+  "_id": 285,
+  "club": "N/A",
+  "displayName": "Derrick P.",
+  "pronouns": "He/Him",
+  "tenhou": "dperry"
+},
+{
+  "_id": 286,
+  "club": "N/A",
+  "displayName": "Mason W.",
+  "pronouns": "He/Him",
+  "tenhou": "starcraf"
+},
+{
+  "_id": 287,
+  "club": "Philadelphia Riichi Mahjong",
+  "displayName": "Yueming G.",
+  "pronouns": "He/Him",
+  "tenhou": "破防雀士"
+},
+{
+  "_id": 288,
+  "club": "USPML",
+  "displayName": "Bianca A.",
+  "pronouns": "She/Her",
+  "tenhou": "Ashby"
+},
+{
+  "_id": 289,
+  "club": "N/A",
+  "displayName": "Katherine P.",
+  "pronouns": "She/Her",
+  "tenhou": "Jevette"
+},
+{
+  "_id": 290,
+  "club": "Seattle Riichi Mahjong Club",
+  "displayName": "Steven H.",
+  "pronouns": "He/Him",
+  "tenhou": "TamFree"
+},
+{
+  "_id": 291,
+  "club": "Riichi Nomi NYC",
+  "displayName": "Zachary S.",
+  "pronouns": "He/Him",
+  "tenhou": "redwings"
+},
+{
+  "_id": 292,
+  "club": "N/A",
+  "displayName": "Lesley L.",
+  "pronouns": "She/Her",
+  "tenhou": "CaMo"
+},
+{
+  "_id": 293,
+  "club": "Philadelphia Riichi Mahjong",
+  "displayName": "Yishen W.",
+  "pronouns": "He/Him",
+  "tenhou": "Yuki0107"
+},
+{
+  "_id": 294,
+  "club": "N/A",
+  "displayName": "Tim Z.",
+  "pronouns": "He/Him",
+  "tenhou": "px2333"
+},
+{
+  "_id": 295,
+  "club": "Atlanta Riichi Club",
+  "displayName": "Reisen I.",
+  "pronouns": "She/Her",
+  "tenhou": "mosque"
+}]

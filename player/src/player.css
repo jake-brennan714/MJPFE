@@ -1,0 +1,9 @@
+.playerCard {
+    float: left;
+    margin: auto;
+}
+
+.playerStats {
+    float: right;
+    margin: auto;
+}

@@ -4,7 +4,7 @@
   "displayName": "",
   "pronouns": "",
   "tenhou": null,
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 1,
@@ -12,7 +12,7 @@
   "displayName": "Edwin D.",
   "pronouns": "he/him",
   "tenhou": "12-6'er",
-  "disc_id": "223818230412738561"
+  "league": "A2"
 },
 {
   "_id": 2,
@@ -20,7 +20,7 @@
   "displayName": "Travis S.",
   "pronouns": "he/him",
   "tenhou": "FakeGG",
-  "disc_id": "159212705763295232"
+  "league": "B3"
 },
 {
   "_id": 3,
@@ -28,7 +28,7 @@
   "displayName": "Max S.",
   "pronouns": "he/him",
   "tenhou": "ShiLPYo",
-  "disc_id": "411373773711867905"
+  "league": "A1"
 },
 {
   "_id": 4,
@@ -36,7 +36,7 @@
   "displayName": "Kevin S.",
   "pronouns": "",
   "tenhou": "Faelil",
-  "disc_id": "151515459454238721"
+  "league": "B3"
 },
 {
   "_id": 5,
@@ -44,7 +44,7 @@
   "displayName": "Vincent Y.",
   "pronouns": "",
   "tenhou": "DS4_千織",
-  "disc_id": "113442860098981888"
+  "league": "113442860098981888"
 },
 {
   "_id": 6,
@@ -52,7 +52,7 @@
   "displayName": "Anthony H.",
   "pronouns": "he/him",
   "tenhou": "Misder",
-  "disc_id": "283866719930417153"
+  "league": "283866719930417153"
 },
 {
   "_id": 7,
@@ -60,7 +60,7 @@
   "displayName": "Andres H.",
   "pronouns": "he/him",
   "tenhou": "Tohsaka",
-  "disc_id": "210216890771963907"
+  "league": "210216890771963907"
 },
 {
   "_id": 8,
@@ -68,7 +68,7 @@
   "displayName": "Tian Y.",
   "pronouns": "",
   "tenhou": "Propane",
-  "disc_id": "404695687276527627"
+  "league": "404695687276527627"
 },
 {
   "_id": 9,
@@ -76,7 +76,7 @@
   "displayName": "Aldwin G.",
   "pronouns": "",
   "tenhou": "KyuuSC",
-  "disc_id": "184475417976111115"
+  "league": "B1"
 },
 {
   "_id": 10,
@@ -84,7 +84,7 @@
   "displayName": "Kevin J.",
   "pronouns": "",
   "tenhou": "KayJay",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 11,
@@ -92,7 +92,7 @@
   "displayName": "Patrick P.",
   "pronouns": "he/him",
   "tenhou": "PattyP",
-  "disc_id": "112228907670859776"
+  "league": "112228907670859776"
 },
 {
   "_id": 12,
@@ -100,7 +100,7 @@
   "displayName": "Alex W.",
   "pronouns": "he/him",
   "tenhou": "point",
-  "disc_id": "102925036146401280"
+  "league": "A1"
 },
 {
   "_id": 13,
@@ -108,7 +108,7 @@
   "displayName": "Tucker D.",
   "pronouns": "they/them",
   "tenhou": "Ennui",
-  "disc_id": "612373465432981545"
+  "league": "B3"
 },
 {
   "_id": 14,
@@ -116,7 +116,7 @@
   "displayName": "John E.",
   "pronouns": "",
   "tenhou": "RonJonA",
-  "disc_id": "164546435101097984"
+  "league": "B2"
 },
 {
   "_id": 15,
@@ -124,7 +124,7 @@
   "displayName": "Ada H.",
   "pronouns": "she/her",
   "tenhou": "kityloaf",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 16,
@@ -132,7 +132,7 @@
   "displayName": "Ryan A.",
   "pronouns": "",
   "tenhou": "パンダフアイサー",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 17,
@@ -140,7 +140,7 @@
   "displayName": "Ryan J.",
   "pronouns": "he/him",
   "tenhou": "Sashimi",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 18,
@@ -148,7 +148,7 @@
   "displayName": "Jeremy F.",
   "pronouns": "he/him",
   "tenhou": "ICHIBAN",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 19,
@@ -156,7 +156,7 @@
   "displayName": "Bret L.",
   "pronouns": "he/him, they/them",
   "tenhou": "Bret",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 20,
@@ -164,7 +164,7 @@
   "displayName": "Andre C.",
   "pronouns": "he/him",
   "tenhou": "6HanDre",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 21,
@@ -172,7 +172,7 @@
   "displayName": "Steven F.",
   "pronouns": "He/Him",
   "tenhou": "銀の津波",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 22,
@@ -180,7 +180,7 @@
   "displayName": "Kinyan L.",
   "pronouns": "she/her",
   "tenhou": "Yukitora",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 23,
@@ -188,7 +188,7 @@
   "displayName": "Joe M.",
   "pronouns": "he/him",
   "tenhou": "Jowzer1",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 24,
@@ -196,7 +196,7 @@
   "displayName": "Stanley D.",
   "pronouns": "He/Him",
   "tenhou": "AuraSoul",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 25,
@@ -204,7 +204,7 @@
   "displayName": "Perry W.",
   "pronouns": "",
   "tenhou": "BigHat",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 26,
@@ -212,7 +212,7 @@
   "displayName": "Cesar F.",
   "pronouns": "",
   "tenhou": "m3w0s",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 27,
@@ -220,7 +220,7 @@
   "displayName": "Christopher P.",
   "pronouns": "",
   "tenhou": "Pint",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 28,
@@ -228,7 +228,7 @@
   "displayName": "Aliena M.",
   "pronouns": "she/they",
   "tenhou": "jamcat",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 29,
@@ -236,7 +236,7 @@
   "displayName": "Daniel N.",
   "pronouns": "he/him",
   "tenhou": "SJS",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 30,
@@ -244,7 +244,7 @@
   "displayName": "Arthur M.",
   "pronouns": "",
   "tenhou": "Corak",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 31,
@@ -252,7 +252,7 @@
   "displayName": "Sarah A.",
   "pronouns": "she/her",
   "tenhou": "wolfos",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 32,
@@ -260,7 +260,7 @@
   "displayName": "Dustin F.",
   "pronouns": "he/him",
   "tenhou": "qetc",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 33,
@@ -268,7 +268,7 @@
   "displayName": "Oliver N.",
   "pronouns": "he/him",
   "tenhou": "Ashye",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 34,
@@ -276,7 +276,7 @@
   "displayName": "Claire P.",
   "pronouns": "she/her",
   "tenhou": "THURSDAY",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 35,
@@ -284,7 +284,7 @@
   "displayName": "Pio Y.",
   "pronouns": "",
   "tenhou": "pio",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 36,
@@ -292,7 +292,7 @@
   "displayName": "Bill S.",
   "pronouns": "",
   "tenhou": "SpklBill",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 37,
@@ -300,7 +300,7 @@
   "displayName": "Kathy H.",
   "pronouns": "she/her",
   "tenhou": "Crow_77",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 38,
@@ -308,7 +308,7 @@
   "displayName": "Hoang L.",
   "pronouns": "he/him",
   "tenhou": "banhcuon",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 39,
@@ -316,7 +316,7 @@
   "displayName": "Steve A.",
   "pronouns": "he/him",
   "tenhou": "zelkin",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 40,
@@ -324,7 +324,7 @@
   "displayName": "Ming-Ko C.",
   "pronouns": "",
   "tenhou": "techbro",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 41,
@@ -332,7 +332,7 @@
   "displayName": "Aaron L.",
   "pronouns": "",
   "tenhou": "Xeno",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 42,
@@ -340,7 +340,7 @@
   "displayName": "Zach F.",
   "pronouns": "",
   "tenhou": "鳳雛子",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 43,
@@ -348,7 +348,7 @@
   "displayName": "Mathias S.",
   "pronouns": "he/him",
   "tenhou": "Mathstar",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 44,
@@ -356,7 +356,7 @@
   "displayName": "Luce C.",
   "pronouns": "she/her",
   "tenhou": "lanxia",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 45,
@@ -364,7 +364,7 @@
   "displayName": "Aaron E.",
   "pronouns": "",
   "tenhou": "CsBlue",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 46,
@@ -372,7 +372,7 @@
   "displayName": "Nathanael K.",
   "pronouns": "he/him",
   "tenhou": "tateniu",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 47,
@@ -380,7 +380,7 @@
   "displayName": "Josh K.",
   "pronouns": "he/him",
   "tenhou": "カン明耀",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 48,
@@ -388,7 +388,7 @@
   "displayName": "Sixuan L.",
   "pronouns": "he/him",
   "tenhou": "Shiromii",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 49,
@@ -396,7 +396,7 @@
   "displayName": "Albert Y.",
   "pronouns": "",
   "tenhou": "on9Namer",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 50,
@@ -404,7 +404,7 @@
   "displayName": "Lucas L.",
   "pronouns": "he/him",
   "tenhou": "Navitas",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 51,
@@ -412,7 +412,7 @@
   "displayName": "Zelong L.",
   "pronouns": "he/him",
   "tenhou": "lzl65825",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 52,
@@ -420,7 +420,7 @@
   "displayName": "Erik K.",
   "pronouns": "he/him",
   "tenhou": "eriknomi",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 53,
@@ -428,7 +428,7 @@
   "displayName": "Amy G.",
   "pronouns": "she/her",
   "tenhou": "amyhaiku",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 54,
@@ -436,7 +436,7 @@
   "displayName": "Gina D.",
   "pronouns": "",
   "tenhou": "Buterfly",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 55,
@@ -444,7 +444,7 @@
   "displayName": "Stephanie V.",
   "pronouns": "",
   "tenhou": "三色ステフ",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 56,
@@ -452,7 +452,7 @@
   "displayName": "Kaz U.",
   "pronouns": "",
   "tenhou": "KSea",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 57,
@@ -460,7 +460,8 @@
   "displayName": "Axel K.",
   "pronouns": "",
   "tenhou": "LM",
-  "disc_id": null
+  "league": "B3",
+  "suspended": true
 },
 {
   "_id": 58,
@@ -468,7 +469,8 @@
   "displayName": "Jun F.",
   "pronouns": "",
   "tenhou": "Shinrako",
-  "disc_id": null
+  "league": "B3",
+  "suspended": true
 },
 {
   "_id": 59,
@@ -476,7 +478,7 @@
   "displayName": "Carl M.",
   "pronouns": "",
   "tenhou": "Ketsuban",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 60,
@@ -484,7 +486,7 @@
   "displayName": "Peter G.",
   "pronouns": "he/him",
   "tenhou": "Hypera",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 61,
@@ -492,7 +494,7 @@
   "displayName": "Robert D.",
   "pronouns": "",
   "tenhou": "Rampi",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 62,
@@ -500,7 +502,7 @@
   "displayName": "Benjamin H.",
   "pronouns": "",
   "tenhou": "Ghostwhl",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 63,
@@ -508,7 +510,7 @@
   "displayName": "Xu L.",
   "pronouns": "he/him",
   "tenhou": "xuli1072",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 64,
@@ -516,7 +518,7 @@
   "displayName": "Vincent C.",
   "pronouns": "he/him",
   "tenhou": "Farcon",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 65,
@@ -524,7 +526,7 @@
   "displayName": "Blane S.",
   "pronouns": "he/him",
   "tenhou": "SmaMan",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 66,
@@ -532,7 +534,7 @@
   "displayName": "Tristan J.",
   "pronouns": "he/him",
   "tenhou": "birdup",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 67,
@@ -540,7 +542,7 @@
   "displayName": "Rachel H.",
   "pronouns": "she/her",
   "tenhou": "rachel",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 68,
@@ -548,7 +550,7 @@
   "displayName": "Kevin N.",
   "pronouns": "He/Him",
   "tenhou": "sibowlr",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 69,
@@ -556,7 +558,7 @@
   "displayName": "Christian M.",
   "pronouns": "he/him",
   "tenhou": "chralem",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 70,
@@ -564,7 +566,7 @@
   "displayName": "Ash G.",
   "pronouns": "",
   "tenhou": "サソリビ",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 71,
@@ -572,7 +574,7 @@
   "displayName": "Simon H.",
   "pronouns": "",
   "tenhou": "アリス大好き",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 72,
@@ -580,7 +582,7 @@
   "displayName": "Kristaps B.",
   "pronouns": "",
   "tenhou": "Ruka985",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 73,
@@ -588,7 +590,7 @@
   "displayName": "Austin T.",
   "pronouns": "",
   "tenhou": "liebe",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 74,
@@ -596,7 +598,7 @@
   "displayName": "Bichen W.",
   "pronouns": "he/him",
   "tenhou": "konamura",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 75,
@@ -604,7 +606,7 @@
   "displayName": "Clinton V.",
   "pronouns": "he/him",
   "tenhou": "cdv2022",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 76,
@@ -612,7 +614,7 @@
   "displayName": "Matthew M.",
   "pronouns": "he/him",
   "tenhou": "幽紫",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 77,
@@ -620,7 +622,7 @@
   "displayName": "Sophia L.",
   "pronouns": "",
   "tenhou": "Sophtoph",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 78,
@@ -628,7 +630,7 @@
   "displayName": "Bruce W.",
   "pronouns": "",
   "tenhou": "b4k4",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 79,
@@ -636,7 +638,7 @@
   "displayName": "Carl T.",
   "pronouns": "He/Him",
   "tenhou": "正義の斷幺",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 80,
@@ -644,7 +646,7 @@
   "displayName": "Scott H.",
   "pronouns": "He/Him",
   "tenhou": "StatDust",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 81,
@@ -652,7 +654,7 @@
   "displayName": "Tommy S.",
   "pronouns": "",
   "tenhou": "jytommy",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 82,
@@ -660,7 +662,7 @@
   "displayName": "David J.",
   "pronouns": "",
   "tenhou": "Astro!!!",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 83,
@@ -668,7 +670,7 @@
   "displayName": "Joshua R.",
   "pronouns": "he/his",
   "tenhou": "玉藻のゲイ",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 84,
@@ -676,7 +678,7 @@
   "displayName": "Riley B.",
   "pronouns": "he/him",
   "tenhou": "rzbick",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 85,
@@ -684,7 +686,7 @@
   "displayName": "Lin A.",
   "pronouns": "",
   "tenhou": "anlin430",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 86,
@@ -692,7 +694,7 @@
   "displayName": "Anja M.",
   "pronouns": "she/her",
   "tenhou": "メガネっ娘",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 87,
@@ -700,7 +702,7 @@
   "displayName": "Yuanxi L.",
   "pronouns": "",
   "tenhou": "LY1nX",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 88,
@@ -708,7 +710,7 @@
   "displayName": "Felippe F.",
   "pronouns": "",
   "tenhou": "Felippe",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 89,
@@ -716,7 +718,7 @@
   "displayName": "Luke M.",
   "pronouns": "He/Him",
   "tenhou": "LukeARML",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 90,
@@ -724,7 +726,7 @@
   "displayName": "Michael M.",
   "pronouns": "",
   "tenhou": "McLeod",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 91,
@@ -732,7 +734,7 @@
   "displayName": "Jason T.",
   "pronouns": "",
   "tenhou": "Pressx",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 92,
@@ -740,7 +742,7 @@
   "displayName": "Andrew F.",
   "pronouns": "",
   "tenhou": "Oktavia",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 93,
@@ -748,7 +750,7 @@
   "displayName": "Everett L.",
   "pronouns": "",
   "tenhou": "MrHat",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 94,
@@ -756,7 +758,7 @@
   "displayName": "Bryce W.",
   "pronouns": "he/him",
   "tenhou": "NTWRS644",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 95,
@@ -764,7 +766,7 @@
   "displayName": "Sam D.",
   "pronouns": "",
   "tenhou": "lera",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 96,
@@ -772,7 +774,7 @@
   "displayName": "Jian J.",
   "pronouns": "",
   "tenhou": "blank",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 97,
@@ -780,7 +782,7 @@
   "displayName": "Molly L.",
   "pronouns": "",
   "tenhou": "sofia",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 98,
@@ -788,7 +790,7 @@
   "displayName": "Philip Z.",
   "pronouns": "he/him",
   "tenhou": "Nehalem",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 99,
@@ -796,7 +798,7 @@
   "displayName": "Cassandra M.",
   "pronouns": "she/her",
   "tenhou": "Ukitten",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 100,
@@ -804,7 +806,7 @@
   "displayName": "Alec S.",
   "pronouns": "he/him",
   "tenhou": "Alec",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 101,
@@ -812,7 +814,7 @@
   "displayName": "Shane B.",
   "pronouns": "he/him",
   "tenhou": "SlimDizz",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 102,
@@ -820,7 +822,7 @@
   "displayName": "Cruz C.",
   "pronouns": "",
   "tenhou": "MCMXCVI",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 103,
@@ -828,7 +830,7 @@
   "displayName": "Travis G.",
   "pronouns": "he/him",
   "tenhou": "Sirocco",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 104,
@@ -836,7 +838,7 @@
   "displayName": "Haru S.",
   "pronouns": "",
   "tenhou": "pororo",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 105,
@@ -844,7 +846,7 @@
   "displayName": "",
   "pronouns": "",
   "tenhou": "/tenhou",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 106,
@@ -852,7 +854,7 @@
   "displayName": "Yoshi K.",
   "pronouns": "",
   "tenhou": "スーパーヨッシー",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 107,
@@ -860,7 +862,7 @@
   "displayName": "Jeremiah D.",
   "pronouns": "",
   "tenhou": "Jdubs",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 108,
@@ -868,7 +870,7 @@
   "displayName": "Michael G.",
   "pronouns": "",
   "tenhou": "じゃがいもえ",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 109,
@@ -876,7 +878,7 @@
   "displayName": "Dakota W.",
   "pronouns": "",
   "tenhou": "g2wolf",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 110,
@@ -884,7 +886,7 @@
   "displayName": "Garrick L.",
   "pronouns": "he/him",
   "tenhou": "Aethryen",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 111,
@@ -892,7 +894,7 @@
   "displayName": "Michael L. [MI]",
   "pronouns": "he/him",
   "tenhou": "ΔM",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 112,
@@ -900,7 +902,7 @@
   "displayName": "Michael V.",
   "pronouns": "he/him",
   "tenhou": "AnotherM",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 113,
@@ -908,7 +910,7 @@
   "displayName": "Andrew R.",
   "pronouns": "he/him",
   "tenhou": "OneShot",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 114,
@@ -916,7 +918,7 @@
   "displayName": "Joshua B.",
   "pronouns": "",
   "tenhou": "JkrBoar",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 115,
@@ -924,7 +926,7 @@
   "displayName": "Jonathan S.",
   "pronouns": "he/him",
   "tenhou": "jsdf",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 116,
@@ -932,7 +934,7 @@
   "displayName": "Sylvie B.",
   "pronouns": "they/them",
   "tenhou": "Sylv007",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 117,
@@ -940,7 +942,7 @@
   "displayName": "Kevin D.",
   "pronouns": "he/him",
   "tenhou": "Dutchman",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 118,
@@ -948,7 +950,7 @@
   "displayName": "Rizeng Z.",
   "pronouns": "",
   "tenhou": "日増",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 119,
@@ -956,7 +958,7 @@
   "displayName": "Jacob R.",
   "pronouns": "",
   "tenhou": "Creed6ft",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 120,
@@ -964,7 +966,7 @@
   "displayName": "Brian T.",
   "pronouns": "He/Him",
   "tenhou": "茨木伊吹",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 121,
@@ -972,7 +974,7 @@
   "displayName": "Jeff T.",
   "pronouns": "he/him",
   "tenhou": "taxi",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 122,
@@ -980,7 +982,7 @@
   "displayName": "Jocilyn W.",
   "pronouns": "She/They",
   "tenhou": "senbei",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 123,
@@ -988,7 +990,7 @@
   "displayName": "Jessa A.",
   "pronouns": "she/her",
   "tenhou": "Ipomoea",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 124,
@@ -996,7 +998,7 @@
   "displayName": "Jasmine Y.",
   "pronouns": "",
   "tenhou": "JasXD17",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 125,
@@ -1004,7 +1006,7 @@
   "displayName": "Ryan D.",
   "pronouns": "he, him",
   "tenhou": "Ovar",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 126,
@@ -1012,7 +1014,7 @@
   "displayName": "Xiangyu J.",
   "pronouns": "He/Him",
   "tenhou": "Jxyy",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 127,
@@ -1020,7 +1022,7 @@
   "displayName": "Amari K.",
   "pronouns": "she/her",
   "tenhou": "Scallion",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 128,
@@ -1028,7 +1030,7 @@
   "displayName": "Julian K.",
   "pronouns": "he/him",
   "tenhou": "Jucchan",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 129,
@@ -1036,7 +1038,7 @@
   "displayName": "Vikram P.",
   "pronouns": "he/him",
   "tenhou": "whatsina",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 130,
@@ -1044,7 +1046,7 @@
   "displayName": "Alfred C.",
   "pronouns": "",
   "tenhou": "Feeding",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 131,
@@ -1052,7 +1054,7 @@
   "displayName": "Leon P.",
   "pronouns": "he/him",
   "tenhou": "TWMN0610",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 132,
@@ -1060,7 +1062,7 @@
   "displayName": "Diyu Y.",
   "pronouns": "",
   "tenhou": "xshy1",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 133,
@@ -1068,7 +1070,7 @@
   "displayName": "Steven L.",
   "pronouns": "he/him",
   "tenhou": "SirMrGuy",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 134,
@@ -1076,7 +1078,7 @@
   "displayName": "Jinwoo K.",
   "pronouns": "",
   "tenhou": "Shikiya",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 135,
@@ -1084,7 +1086,7 @@
   "displayName": "Zach W.",
   "pronouns": "",
   "tenhou": "termdex",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 136,
@@ -1092,7 +1094,7 @@
   "displayName": "Gaetano L.",
   "pronouns": "",
   "tenhou": "LowCiel",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 137,
@@ -1100,7 +1102,7 @@
   "displayName": "Robert C.",
   "pronouns": "he, him, his",
   "tenhou": "otiose",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 138,
@@ -1108,7 +1110,7 @@
   "displayName": "Christine R.",
   "pronouns": "",
   "tenhou": "Xtine",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 139,
@@ -1116,7 +1118,7 @@
   "displayName": "Eric L.",
   "pronouns": "",
   "tenhou": "Eile",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 140,
@@ -1124,7 +1126,7 @@
   "displayName": "William S.",
   "pronouns": "He/Him",
   "tenhou": "Kujira",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 141,
@@ -1132,7 +1134,7 @@
   "displayName": "James A.",
   "pronouns": "He/Him",
   "tenhou": "greatBit",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 142,
@@ -1140,7 +1142,7 @@
   "displayName": "Simon Y.",
   "pronouns": "He/Him",
   "tenhou": "urapls",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 143,
@@ -1148,7 +1150,7 @@
   "displayName": "Huxley S.",
   "pronouns": "He/Him",
   "tenhou": "redsoul",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 144,
@@ -1156,7 +1158,7 @@
   "displayName": "Harrison C.",
   "pronouns": "He/Him",
   "tenhou": "Suizo",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 145,
@@ -1164,7 +1166,7 @@
   "displayName": "Andrew L.",
   "pronouns": "He/Him",
   "tenhou": "qt727",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 146,
@@ -1172,7 +1174,7 @@
   "displayName": "Chase B.",
   "pronouns": "they/any",
   "tenhou": "ember",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 147,
@@ -1180,7 +1182,7 @@
   "displayName": "Michael W.",
   "pronouns": "He/Him",
   "tenhou": "Soyuz",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 148,
@@ -1188,7 +1190,7 @@
   "displayName": "Gaohan M.",
   "pronouns": "He/Him",
   "tenhou": "不杠不舒服",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 149,
@@ -1196,7 +1198,7 @@
   "displayName": "Jonathan F.",
   "pronouns": "He/Him",
   "tenhou": "popte",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 150,
@@ -1204,7 +1206,7 @@
   "displayName": "Dave B.",
   "pronouns": "He/Him",
   "tenhou": "gravaton",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 151,
@@ -1212,7 +1214,7 @@
   "displayName": "Logan F.",
   "pronouns": "He/Him",
   "tenhou": "Ransom69",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 152,
@@ -1220,7 +1222,7 @@
   "displayName": "Ai N.",
   "pronouns": "Any",
   "tenhou": "愛拷問",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 153,
@@ -1228,7 +1230,7 @@
   "displayName": "Henry M.",
   "pronouns": "He/Him",
   "tenhou": "Stormo",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 154,
@@ -1236,7 +1238,7 @@
   "displayName": "Dave C.",
   "pronouns": "He/Him",
   "tenhou": "gamesoft",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 155,
@@ -1244,7 +1246,7 @@
   "displayName": "Nick N.",
   "pronouns": "He/Him",
   "tenhou": "ミステール",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 156,
@@ -1252,7 +1254,7 @@
   "displayName": "Chris L.",
   "pronouns": "he/him",
   "tenhou": "TheOneDM",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 157,
@@ -1260,7 +1262,7 @@
   "displayName": "Daniel T.",
   "pronouns": "he/him",
   "tenhou": "mp22340",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 158,
@@ -1268,7 +1270,7 @@
   "displayName": "Erin W.",
   "pronouns": "She/Her",
   "tenhou": "TMYoukai",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 159,
@@ -1276,7 +1278,7 @@
   "displayName": "Jake M.",
   "pronouns": "He/Him",
   "tenhou": "Chef_McM",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 160,
@@ -1284,7 +1286,7 @@
   "displayName": "Airi M.",
   "pronouns": "She/Her",
   "tenhou": "愛里ん女性",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 161,
@@ -1292,7 +1294,7 @@
   "displayName": "Kevin P.",
   "pronouns": "He/Him",
   "tenhou": "ウェー",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 162,
@@ -1300,7 +1302,7 @@
   "displayName": "Charlie G.",
   "pronouns": "He/Him",
   "tenhou": "alexei",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 163,
@@ -1308,7 +1310,7 @@
   "displayName": "Will M.",
   "pronouns": "He/Him",
   "tenhou": "Redzone",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 164,
@@ -1316,7 +1318,7 @@
   "displayName": "Gabby C.",
   "pronouns": "She/Her",
   "tenhou": "noona",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 165,
@@ -1324,7 +1326,7 @@
   "displayName": "Rob G.",
   "pronouns": "He/HimWon",
   "tenhou": "RobGlass",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 166,
@@ -1332,7 +1334,7 @@
   "displayName": "Wen-Chien W.",
   "pronouns": "He/Him",
   "tenhou": "SilentRn",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 167,
@@ -1340,7 +1342,7 @@
   "displayName": "Charles G.",
   "pronouns": "He/Him",
   "tenhou": "ItsukuNo",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 168,
@@ -1348,7 +1350,7 @@
   "displayName": "Hawnlay S.",
   "pronouns": "He/Him",
   "tenhou": "Safaris",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 169,
@@ -1356,7 +1358,7 @@
   "displayName": "Allon S.",
   "pronouns": "He/Him",
   "tenhou": "drballon",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 170,
@@ -1364,7 +1366,7 @@
   "displayName": "Stefan Z.",
   "pronouns": "He/Him",
   "tenhou": "SergeAz2",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 171,
@@ -1372,7 +1374,7 @@
   "displayName": "Jaymond H.",
   "pronouns": "He/Him",
   "tenhou": "チークスちゃん",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 172,
@@ -1380,7 +1382,7 @@
   "displayName": "Matthew R.",
   "pronouns": "He/Him",
   "tenhou": "PixlRush",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 173,
@@ -1388,7 +1390,7 @@
   "displayName": "Travis H.",
   "pronouns": "He/Him",
   "tenhou": "Lord_Xp",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 174,
@@ -1396,7 +1398,7 @@
   "displayName": "Kayla C.",
   "pronouns": "She/Her",
   "tenhou": "TheEarth",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 175,
@@ -1404,7 +1406,7 @@
   "displayName": "Quinn G.",
   "pronouns": "any pronouns",
   "tenhou": "GDruid",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 176,
@@ -1412,7 +1414,7 @@
   "displayName": "Blake P.",
   "pronouns": "any/all",
   "tenhou": "PNWBati",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 177,
@@ -1420,7 +1422,7 @@
   "displayName": "Viet N.",
   "pronouns": "He/Him",
   "tenhou": "redpnda",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 178,
@@ -1428,7 +1430,7 @@
   "displayName": "Jai S.",
   "pronouns": "He/Him",
   "tenhou": "jai",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 179,
@@ -1436,7 +1438,7 @@
   "displayName": "Jenn B.",
   "pronouns": "She/Her",
   "tenhou": "mj-jen",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 180,
@@ -1444,7 +1446,7 @@
   "displayName": "Garthe N.",
   "pronouns": "He/Him",
   "tenhou": "fredflin",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 181,
@@ -1452,7 +1454,7 @@
   "displayName": "Quincy H.",
   "pronouns": "He/Him",
   "tenhou": "Quincy",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 182,
@@ -1460,7 +1462,7 @@
   "displayName": "Nicholas W.",
   "pronouns": "He/Him",
   "tenhou": "TxrUrdnk",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 183,
@@ -1468,7 +1470,7 @@
   "displayName": "Damian M.",
   "pronouns": "He/Him",
   "tenhou": "Naroth",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 184,
@@ -1476,7 +1478,7 @@
   "displayName": "Erik D.",
   "pronouns": "He/Him",
   "tenhou": "Erik_D",
-  "disc_id": null
+  "league": "A1"
 },
 {
   "_id": 185,
@@ -1484,7 +1486,7 @@
   "displayName": "Isabella Y.",
   "pronouns": "She/Her",
   "tenhou": "白Ichigo",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 186,
@@ -1492,7 +1494,7 @@
   "displayName": "Melissa F.",
   "pronouns": "She/Her",
   "tenhou": "Ume424",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 187,
@@ -1500,7 +1502,7 @@
   "displayName": "Emily L.",
   "pronouns": "She/Her",
   "tenhou": "katino",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 188,
@@ -1508,7 +1510,7 @@
   "displayName": "Elwyn T.",
   "pronouns": "He/Him",
   "tenhou": "Noomba",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 189,
@@ -1516,7 +1518,7 @@
   "displayName": "Greg K.",
   "pronouns": "He/Him",
   "tenhou": "kiwiiska",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 190,
@@ -1524,7 +1526,7 @@
   "displayName": "Jackie W.",
   "pronouns": "He/Him",
   "tenhou": "Cyber777",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 191,
@@ -1532,7 +1534,7 @@
   "displayName": "Rowen D.",
   "pronouns": "He/They",
   "tenhou": "nano!",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 192,
@@ -1540,7 +1542,7 @@
   "displayName": "Takahiro S.",
   "pronouns": "He/Him",
   "tenhou": "ペンギンナイト",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 193,
@@ -1548,7 +1550,7 @@
   "displayName": "Miguel C.",
   "pronouns": "He/Him",
   "tenhou": "TheWild西",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 194,
@@ -1556,7 +1558,7 @@
   "displayName": "Monica A.",
   "pronouns": "She/Her",
   "tenhou": "bakadora",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 195,
@@ -1564,7 +1566,7 @@
   "displayName": "Jackson O.",
   "pronouns": "He/Him",
   "tenhou": "20thJack",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 196,
@@ -1572,7 +1574,7 @@
   "displayName": "Jeff C.",
   "pronouns": "He/Him",
   "tenhou": "コッコロママ",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 197,
@@ -1580,7 +1582,7 @@
   "displayName": "Barry W.",
   "pronouns": "He/Him",
   "tenhou": "Barry2",
-  "disc_id": null
+  "league": "A2"
 },
 {
   "_id": 198,
@@ -1588,7 +1590,7 @@
   "displayName": "Jonah M.",
   "pronouns": "He/Him",
   "tenhou": "yokaimal",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 199,
@@ -1596,7 +1598,7 @@
   "displayName": "TJ C.",
   "pronouns": "He/Him",
   "tenhou": "CRaise14",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 200,
@@ -1604,7 +1606,7 @@
   "displayName": "Xinlong H.",
   "pronouns": "He/Him",
   "tenhou": "Unluck",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 201,
@@ -1612,7 +1614,7 @@
   "displayName": "Drew B.",
   "pronouns": "He/Him",
   "tenhou": "naiya55",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 202,
@@ -1620,7 +1622,7 @@
   "displayName": "Yu-Hsiu S.",
   "pronouns": "He/Him",
   "tenhou": "さくたん",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 203,
@@ -1628,7 +1630,7 @@
   "displayName": "Ean T.",
   "pronouns": "He/Him",
   "tenhou": "AgntSeto",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 204,
@@ -1636,7 +1638,7 @@
   "displayName": "John B.",
   "pronouns": "He/Him",
   "tenhou": "ppp42",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 205,
@@ -1644,7 +1646,7 @@
   "displayName": "Nathan B.",
   "pronouns": "They/Them",
   "tenhou": "Ichihime",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 206,
@@ -1652,7 +1654,7 @@
   "displayName": "Terra L.",
   "pronouns": "She/Her",
   "tenhou": "Gracidea",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 207,
@@ -1660,7 +1662,7 @@
   "displayName": "Rey A.",
   "pronouns": "She/Her",
   "tenhou": "平蝶鬼",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 208,
@@ -1668,7 +1670,7 @@
   "displayName": "Jeffrey S.",
   "pronouns": "He/Him",
   "tenhou": "Nogesca",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 209,
@@ -1676,7 +1678,7 @@
   "displayName": "Jason Z.",
   "pronouns": "He/Him",
   "tenhou": "KwwAsuna",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 210,
@@ -1684,7 +1686,7 @@
   "displayName": "David K.",
   "pronouns": "He/Him",
   "tenhou": "DemoK",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 211,
@@ -1692,7 +1694,7 @@
   "displayName": "Stephen M.",
   "pronouns": "He/Him",
   "tenhou": "MrMcMeat",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 212,
@@ -1700,7 +1702,7 @@
   "displayName": "Kyle P.",
   "pronouns": "He/Him",
   "tenhou": "Kurlyttv",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 213,
@@ -1708,7 +1710,7 @@
   "displayName": "Tomisin L.",
   "pronouns": "They/Them",
   "tenhou": "movieman",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 214,
@@ -1716,7 +1718,7 @@
   "displayName": "Kevin Q.",
   "pronouns": "he/him",
   "tenhou": "fog1ess",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 215,
@@ -1724,7 +1726,7 @@
   "displayName": "Vinny T.",
   "pronouns": "He/Him",
   "tenhou": "Noctus",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 216,
@@ -1732,7 +1734,7 @@
   "displayName": "Garrett B.",
   "pronouns": "He/Him",
   "tenhou": "tomaajan",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 217,
@@ -1740,7 +1742,7 @@
   "displayName": "Matsuri H.",
   "pronouns": "She/Her",
   "tenhou": "花崎祭",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 218,
@@ -1748,7 +1750,7 @@
   "displayName": "Ricky L.",
   "pronouns": "He/Him",
   "tenhou": "Polt",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 219,
@@ -1756,7 +1758,7 @@
   "displayName": "Darrell M.",
   "pronouns": "He/Him",
   "tenhou": "BLKAkagi",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 220,
@@ -1764,7 +1766,7 @@
   "displayName": "Allen Z.",
   "pronouns": "He/Him",
   "tenhou": "maynard",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 221,
@@ -1772,7 +1774,7 @@
   "displayName": "Scott G.",
   "pronouns": "He/Him",
   "tenhou": "Scott007",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 222,
@@ -1780,7 +1782,7 @@
   "displayName": "Tamas E.",
   "pronouns": "He/Him",
   "tenhou": "hatsuber",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 223,
@@ -1788,7 +1790,7 @@
   "displayName": "Michael S.",
   "pronouns": "He/Him",
   "tenhou": "dojima",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 224,
@@ -1796,7 +1798,7 @@
   "displayName": "Eric N. [Unaffiliated]",
   "pronouns": "He/Him",
   "tenhou": "Sakuzya",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 225,
@@ -1804,7 +1806,7 @@
   "displayName": "Michael X.",
   "pronouns": "He/Him",
   "tenhou": "Xom",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 226,
@@ -1812,7 +1814,7 @@
   "displayName": "Eric H.",
   "pronouns": "He/Him",
   "tenhou": "Falconb",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 227,
@@ -1820,7 +1822,7 @@
   "displayName": "Yun Z.",
   "pronouns": "He/Him",
   "tenhou": "yzsan",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 228,
@@ -1828,7 +1830,7 @@
   "displayName": "Nancy G.",
   "pronouns": "She/Her",
   "tenhou": "N0NAME",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 229,
@@ -1836,7 +1838,7 @@
   "displayName": "Andrew S.",
   "pronouns": "He/Him",
   "tenhou": "StPemis",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 230,
@@ -1844,7 +1846,7 @@
   "displayName": "James B.",
   "pronouns": "He/Him",
   "tenhou": "神様最高",
-  "disc_id": null
+  "league": "B1"
 },
 {
   "_id": 231,
@@ -1852,7 +1854,7 @@
   "displayName": "Adam P.",
   "pronouns": "He/Him",
   "tenhou": "Perry!",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 232,
@@ -1860,7 +1862,7 @@
   "displayName": "Omar H.",
   "pronouns": "He/Him",
   "tenhou": "Clog",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 233,
@@ -1868,7 +1870,7 @@
   "displayName": "Oliver K.",
   "pronouns": "He/Him",
   "tenhou": "KaiserWi",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 234,
@@ -1876,7 +1878,7 @@
   "displayName": "Christopher D.",
   "pronouns": "He/Him",
   "tenhou": "cannibal",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 235,
@@ -1884,7 +1886,7 @@
   "displayName": "Eric N. [DFW]",
   "pronouns": "He/Him",
   "tenhou": "noradic",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 236,
@@ -1892,7 +1894,7 @@
   "displayName": "Ross C.",
   "pronouns": "He/Him",
   "tenhou": "Snypshot",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 237,
@@ -1900,7 +1902,7 @@
   "displayName": "Dani W.",
   "pronouns": "They/Them",
   "tenhou": "demeter",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 239,
@@ -1908,7 +1910,7 @@
   "displayName": "Madeleine A.",
   "pronouns": "She/Her",
   "tenhou": "mables",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 238,
@@ -1916,7 +1918,7 @@
   "displayName": "TC P.",
   "pronouns": "They/Them",
   "tenhou": "spires",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 240,
@@ -1924,7 +1926,7 @@
   "displayName": "Eric C.",
   "pronouns": "He/Him",
   "tenhou": "ggez",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 241,
@@ -1932,7 +1934,7 @@
   "displayName": "Andrew Y.",
   "pronouns": "He/Him",
   "tenhou": "rkbird",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 242,
@@ -1940,7 +1942,7 @@
   "displayName": "Adam K.",
   "pronouns": "He/Him",
   "tenhou": "NoYaku",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 243,
@@ -1948,7 +1950,7 @@
   "displayName": "Aaron S.",
   "pronouns": "He/Him",
   "tenhou": "Skinzy",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 244,
@@ -1956,7 +1958,7 @@
   "displayName": "Luis V.",
   "pronouns": "He/Him",
   "tenhou": "Umandsf",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 245,
@@ -1964,7 +1966,7 @@
   "displayName": "Brian W.",
   "pronouns": "He/Him",
   "tenhou": "SilverDF",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 246,
@@ -1972,7 +1974,7 @@
   "displayName": "Kaysen L.",
   "pronouns": "She/Her",
   "tenhou": "CheerPan",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 247,
@@ -1980,7 +1982,7 @@
   "displayName": "Edward Z.",
   "pronouns": "He/Him",
   "tenhou": "Rorange",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 248,
@@ -1988,7 +1990,7 @@
   "displayName": "Tzen-Hao N.",
   "pronouns": "He/Him",
   "tenhou": "t_ng",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 249,
@@ -1996,7 +1998,7 @@
   "displayName": "JT D.",
   "pronouns": "He/Him",
   "tenhou": "ゴロゴロCat",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 250,
@@ -2004,7 +2006,7 @@
   "displayName": "Bob B.",
   "pronouns": "He/Him",
   "tenhou": "Pride",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 251,
@@ -2012,7 +2014,7 @@
   "displayName": "Benjamin E.",
   "pronouns": "He/Him",
   "tenhou": "千位問",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 252,
@@ -2020,7 +2022,7 @@
   "displayName": "Kate D.",
   "pronouns": "She/Her",
   "tenhou": "egregirl",
-  "disc_id": null
+  "league": "B2"
 },
 {
   "_id": 253,
@@ -2028,7 +2030,7 @@
   "displayName": "Donald K.",
   "pronouns": "He/Him",
   "tenhou": "Scample",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 254,
@@ -2036,7 +2038,7 @@
   "displayName": "Remie R.",
   "pronouns": "He/Him",
   "tenhou": "Hakoops",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 255,
@@ -2044,7 +2046,7 @@
   "displayName": "Alex O.",
   "pronouns": "He/Him",
   "tenhou": "Obye1",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 256,
@@ -2052,7 +2054,7 @@
   "displayName": "Skye C.",
   "pronouns": "She/Her",
   "tenhou": "sci",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 257,
@@ -2060,7 +2062,7 @@
   "displayName": "Tess M.",
   "pronouns": "She/Her",
   "tenhou": "静花",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 258,
@@ -2068,7 +2070,7 @@
   "displayName": "Justin W.",
   "pronouns": "He/Him",
   "tenhou": "Soup",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 259,
@@ -2076,7 +2078,7 @@
   "displayName": "Dylan B.",
   "pronouns": "He/Him",
   "tenhou": "DBOY42",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 260,
@@ -2084,7 +2086,7 @@
   "displayName": "Michael B.",
   "pronouns": "He/Him",
   "tenhou": "aoc924",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 261,
@@ -2092,7 +2094,7 @@
   "displayName": "Noelle H.",
   "pronouns": "She/Her",
   "tenhou": "バイン",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 262,
@@ -2100,7 +2102,7 @@
   "displayName": "Eden L.",
   "pronouns": "They/Them",
   "tenhou": "Elster",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 263,
@@ -2108,7 +2110,7 @@
   "displayName": "Sam C.",
   "pronouns": "They/Them",
   "tenhou": "Intergi",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 264,
@@ -2116,7 +2118,7 @@
   "displayName": "Kristy C.",
   "pronouns": "She/Her",
   "tenhou": "syoro",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 265,
@@ -2124,7 +2126,7 @@
   "displayName": "Ran C.",
   "pronouns": "She/Her",
   "tenhou": "rantan",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 266,
@@ -2132,7 +2134,7 @@
   "displayName": "Michael L. [ND]",
   "pronouns": "He/Him",
   "tenhou": "RvBishop",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 267,
@@ -2140,7 +2142,7 @@
   "displayName": "Gino G.",
   "pronouns": "He/Him",
   "tenhou": "opt1zer",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 268,
@@ -2148,7 +2150,7 @@
   "displayName": "Alex C.",
   "pronouns": "He/Him",
   "tenhou": "Zanzaben",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 269,
@@ -2156,7 +2158,7 @@
   "displayName": "Ty K.",
   "pronouns": "He/Him",
   "tenhou": "Caranut",
-  "disc_id": null
+  "league": "B3"
 },
 {
   "_id": 270,
@@ -2164,7 +2166,7 @@
   "displayName": "Aiden B.",
   "pronouns": "He/Him",
   "tenhou": "Sharpe",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 271,
@@ -2172,7 +2174,7 @@
   "displayName": "Dave D.",
   "pronouns": "He/Him",
   "tenhou": "xaved",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 272,
@@ -2180,7 +2182,7 @@
   "displayName": "Michael G. [RM]",
   "pronouns": "He/Him",
   "tenhou": "冗談人",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 273,
@@ -2188,7 +2190,7 @@
   "displayName": "Yuk Fai Y.",
   "pronouns": "He/Him",
   "tenhou": "poch",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 274,
@@ -2196,7 +2198,7 @@
   "displayName": "Dennis S.",
   "pronouns": "He/Him",
   "tenhou": "Tacko",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 275,
@@ -2204,7 +2206,7 @@
   "displayName": "Jake B.",
   "pronouns": "He/Him",
   "tenhou": "ブレナンJ",
-  "disc_id": "293131043567828993"
+  "league": null
 },
 {
   "_id": 276,
@@ -2212,7 +2214,7 @@
   "displayName": "Mary Jane Y.",
   "pronouns": "She/Her",
   "tenhou": "mjfury",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 277,
@@ -2220,7 +2222,7 @@
   "displayName": "Adriel O.",
   "pronouns": "He/Him",
   "tenhou": "神の群れ",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 278,
@@ -2228,7 +2230,7 @@
   "displayName": "Maya B.",
   "pronouns": "She/Her",
   "tenhou": "catputer",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 279,
@@ -2236,7 +2238,7 @@
   "displayName": "Michael H.",
   "pronouns": "He/Him",
   "tenhou": "redpanda",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 280,
@@ -2244,7 +2246,7 @@
   "displayName": "Kaden C.",
   "pronouns": "He/Him",
   "tenhou": "Tookoo",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 281,
@@ -2252,7 +2254,7 @@
   "displayName": "Alec Z.",
   "pronouns": "He/Him",
   "tenhou": "opgamer",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 282,
@@ -2260,7 +2262,7 @@
   "displayName": "Yanfeng C.",
   "pronouns": "He/Him",
   "tenhou": "NecoNe",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 283,
@@ -2268,7 +2270,7 @@
   "displayName": "Bradley B.",
   "pronouns": "He/Him",
   "tenhou": "captobvi",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 284,
@@ -2276,7 +2278,7 @@
   "displayName": "Pamela R.",
   "pronouns": "She/Her",
   "tenhou": "pdruiz",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 285,
@@ -2284,7 +2286,7 @@
   "displayName": "Derrick P.",
   "pronouns": "He/Him",
   "tenhou": "dperry",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 286,
@@ -2292,7 +2294,7 @@
   "displayName": "Mason W.",
   "pronouns": "He/Him",
   "tenhou": "starcraf",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 287,
@@ -2300,7 +2302,7 @@
   "displayName": "Yueming G.",
   "pronouns": "He/Him",
   "tenhou": "破防雀士",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 288,
@@ -2308,7 +2310,7 @@
   "displayName": "Bianca A.",
   "pronouns": "She/Her",
   "tenhou": "Ashby",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 289,
@@ -2316,7 +2318,7 @@
   "displayName": "Katherine P.",
   "pronouns": "She/Her",
   "tenhou": "Jevette",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 290,
@@ -2324,7 +2326,7 @@
   "displayName": "Steven H.",
   "pronouns": "He/Him",
   "tenhou": "TamFree",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 291,
@@ -2332,7 +2334,7 @@
   "displayName": "Zachary S.",
   "pronouns": "He/Him",
   "tenhou": "redwings",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 292,
@@ -2340,7 +2342,7 @@
   "displayName": "Lesley L.",
   "pronouns": "She/Her",
   "tenhou": "CaMo",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 293,
@@ -2348,7 +2350,7 @@
   "displayName": "Yishen W.",
   "pronouns": "He/Him",
   "tenhou": "Yuki0107",
-  "disc_id": null
+  "league": "C1"
 },
 {
   "_id": 294,
@@ -2356,7 +2358,7 @@
   "displayName": "Tim Z.",
   "pronouns": "He/Him",
   "tenhou": "px2333",
-  "disc_id": null
+  "league": null
 },
 {
   "_id": 295,
@@ -2364,5 +2366,5 @@
   "displayName": "Reisen I.",
   "pronouns": "She/Her",
   "tenhou": "mosque",
-  "disc_id": null
+  "league": null
 }]

@@ -1,6 +1,6 @@
 import NavBar from "../../src/navbar";
 import Footer from "../../src/footer";
-// import "./player.css";
+import "./player.css";
 import listPlayers from '../../shared-data/arml.players.json';
 
 // Discord won't authorize my API requests from here, even though it will from Postman
@@ -48,7 +48,7 @@ export function PlayerData() {
 
     const player = listPlayers[parseInt(params.get("p") || "")];
     const fname = player.displayName.split(" ")[0];
-    const linit = player.displayName.split(" ")[1];
+    const linit = player.displayName.split(" ")[1].substring(0, 1);
     // const pid = "275";
     // const did = listPlayers[parseInt(pid)].disc_id || "";
     // if (did === -1) {
@@ -111,7 +111,10 @@ export function PlayerData() {
         {/*<img src={`https://cdn.discordapp.com/avatars/${did}/${data}`} alt="profile picture" />*/}
         <div className="playerCard">
             <h1>{fname}</h1>
-            <h2>{linit}</h2>
+            <h2>{linit}.</h2>
+        </div>
+        <div className="playerStats">
+            <h1>stats go here</h1>
         </div>
     </>)
 }

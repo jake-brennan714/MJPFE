@@ -1,6 +1,28 @@
+@import "vars.css";
+
+#root {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    height: var(--header-height);
+    border-bottom: 1px solid black;
+    /*padding-left: 10px;*/
+    /*padding-right: 10px;*/
+    background: white;
+}
+
+.navbar {
+    width: 100%;
+    align-items: center;
+}
+
 .navbar > ul {
+    width: calc(100% - var(--nav-edges));
     list-style-type: none;
-    margin: 0;
+    margin: auto;
     padding: 0;
 }
 
@@ -56,4 +78,8 @@ div.int-box {
 
 *:not(li > a > span) {
     vertical-align: inherit;
+}
+
+#content-root {
+    padding-top: var(--header-height);
 }

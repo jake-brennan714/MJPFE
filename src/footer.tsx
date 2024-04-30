@@ -5,8 +5,8 @@ import { faTwitter, faTwitch, faYoutube } from "@fortawesome/free-brands-svg-ico
 function Footer() {
     return (
         <>
-            <hr />
             <div className="footer-container">
+                {/*<hr/>*/}
                 <div className="footer-contents">
                     <a href="https://twitter.com/AmericanRiichi">
                         <FontAwesomeIcon icon={faTwitter}/>

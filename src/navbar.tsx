@@ -29,12 +29,11 @@ function NavBar() {
                         </li>
 
                         <li className="nav-account flr">
-                            <a href="http://localhost:5173/account"><i className="fa-solid fa-circle-user"></i></a>
+                            <a href="http://localhost:5173/account/"><i className="fa-solid fa-circle-user"></i></a>
                         </li>
                     </ul>
                 </div>
             </div>
-            <hr></hr>
         </>
     )
 }

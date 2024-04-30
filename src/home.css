@@ -1,3 +1,5 @@
+@import "vars.css";
+
 /* "What is ARML" section */
 #what-is-arml {
     font-size: 1rem;
@@ -9,6 +11,7 @@
     left: 10em;
     right: 10em;
     padding-top: 1em;
+    padding-bottom: var(--footer-height);
     /*padding: 10em 10em 0;*/
 }
 

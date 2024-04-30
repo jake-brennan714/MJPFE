@@ -1,11 +1,36 @@
+@import "../../src/vars.css";
+
 :root {
     --width-of-button: 10em;
 }
 
+.search-container {
+    width: 100%;
+    padding-bottom: 10px;
+    margin: auto;
+    align-items: center;
+}
+
+.center-children {
+    margin: auto;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+
+.search-input {
+    width: 20%;
+    /*left: 40%;*/
+    right: 40%;
+    margin: auto;
+}
+
 .list-box {
     width: 75%;
-    margin: auto;
     border: 2px black solid;
+    /* Hacky fix for the bottom border being too big */
+    border-bottom: 1px black solid;
+    margin: auto auto var(--footer-height);
 }
 
 .list-group {
@@ -15,12 +40,15 @@
 }
 
 .player {
-    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
     text-align: center;
     border-bottom: 1px black solid;
     padding-bottom: 10px;
     padding-top: 10px;
 }
+
+
 
 .player > a:link, .player > a:visited {
     background-color: white;
@@ -30,6 +58,7 @@
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    font-family: Raleway, sans-serif;
 }
 
 .player > a:hover{
@@ -38,4 +67,8 @@
 
 .player > a:active {
     background-color: #a0a0a0;
+}
+
+#content-root {
+    align-items: center;
 }

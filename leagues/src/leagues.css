@@ -1,0 +1,18 @@
+#content-root {
+    align-items: center;
+}
+
+.league-table {
+    display: table;
+    align-items: center;
+}
+
+.leagues {
+    display: table-row;
+    align-items: center;
+}
+
+.leagues * {
+    display: table-cell;
+    align-items: center;
+}

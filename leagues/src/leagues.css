@@ -1,18 +1,65 @@
 #content-root {
     align-items: center;
+    align-content: center;
 }
 
 .league-table {
-    display: table;
+    width: 100%;
+    left: 0;
+    right: 0;
+    margin: auto;
     align-items: center;
+    align-content: center;
 }
 
 .leagues {
-    display: table-row;
     align-items: center;
+    align-content: center;
+    width: 75%;
+    margin: auto;
+    padding-top: 3rem;
+    padding-bottom: 4rem;
 }
 
 .leagues * {
-    display: table-cell;
-    align-items: center;
+    border: 1px solid black;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 3rem;
 }
+
+/*.leagues.a :first-child {*/
+/*    margin-left: calc(30% - 3rem)*/
+/*}*/
+
+/*.leagues.b :first-child {*/
+/*    margin-left: calc(15% - 3rem);*/
+/*}*/
+
+/*.leagues.c :first-child {*/
+/*    margin-left: calc(46% - 3rem);*/
+/*}*/
+
+.leagues a {
+    text-decoration: none;
+    color: black;
+    font-family: Raleway, Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.leagues.a * {
+    background-color: #ffca55;
+}
+
+.leagues.b * {
+    background-color: #a0a0a0;
+}
+
+.leagues.c * {
+    background-color: #8f5728;
+}
+
+/*.leagues.a {*/
+/*    padding-top: 0.5rem;*/
+/*}*/
